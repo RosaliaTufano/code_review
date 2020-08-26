@@ -20,6 +20,7 @@ The dataset for the `2-encoders` model is instead composed by *Reviewed Commente
   - `src1` file contains the r_nl instances;
   - `src2` file contains the m_s instances;
   - `tgt` file contains the m_r instances.
+  
 The natural language recommendations are cleaned and abstracted as described in our work.
   
 
