@@ -29,7 +29,7 @@ The natural language recommendations are cleaned and abstracted as described in 
 
 The `code` folder contains all the necessary to *train* the models and to *test* them.
 
-For both models, the best configuration we found with the tuning of the hyperparameters is provided in the respective folders. To run the training of a model it is sufficient to run the `training/trainin.py` file.
+For both models, the best configuration we found through the tuning of the hyperparameters is provided in the respective folders. To run the training of a model it is sufficient to run the `training/trainin.py` file.
 
 Once the model is trained, it is possible to test it on the test set by running the `run-on-test/infer.py` file.
 
