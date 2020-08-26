@@ -29,9 +29,9 @@ The natural language recommendations are cleaned and abstracted as described in 
 
 The `code` folder contains all the necessary to *train* the models and to *test* them.
 
-For both models, the best configuration we found through the tuning of the hyperparameters is provided in the respective folders. To run the training of a model it is sufficient to run the `training/trainin.py` file.
+For both models, the best configuration we found through the tuning of the hyperparameters is provided in the respective folders. To start the training of a model it is sufficient to run the `training/trainin.py` file. It first will create the vocabularies needed and then it will start the training. The model trained will be saved in the `run` folder.
 
-Once the model is trained, it is possible to test it on the test set by running the `run-on-test/infer.py` file.
+Once the model is trained, it is possible to test it on the test set by running the `run-on-test/infer.py` file. It will create the `predictions.txt` file containing all the model predictions.
 
 It is possible to change the *beam search size* modifying the `beam_width` and `num_hypotheses` parameters in the `training/data.yml` file.
 
