@@ -10,6 +10,8 @@ The purpose of this repository is to provide everythig necessary to replicate ou
 
 ## Contents
 
+### Datasets
+
 In `datasets` folder both datasets for the two Transformer models are provided. The data are splitted in `training set`, `validation set` and `test set`; each of them can be found in the relative folder.
 
 The dataset for the `1-encoder` model is composed by *Reviewed Code Pairs* (RCPs). A RCP is a <m_s, m_r> pair composed by the abstracted code of the method extracted from the Java file submitted by a contributor for review (m_s) and by the abstracted code of its revised version (m_r). Therefore, for each set two files are provided: 
@@ -23,5 +25,13 @@ The dataset for the `2-encoders` model is instead composed by *Reviewed Commente
   
 The natural language recommendations are cleaned and abstracted as described in our work.
   
+### Code
 
+The `code` folder contains all the necessary to *train* the models and to *test* them.
+
+For both models, the best configuration we found with the tuning of the hyperparameters is provided. To run the training it is sufficient to run the 'trainin.py' python file in the `training` subfolder.
+
+Once the model is trained, it is possible to test it on the test set by running the `infer.py` python file in the `run-on-test` subfolder.
+
+It is possible to change the *beam search size* modifying the `beam_size` and `beam_hypotesis` parameters in the `training/data.yml` file.
 
