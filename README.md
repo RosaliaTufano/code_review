@@ -6,7 +6,7 @@ The purpose of this repository is to provide everythig necessary to replicate ou
 
 ### TODO: add an introduction.
 
-### TODO: Dependencies -> OpenNMT-tf
+### TODO: Dependencies -> Python, OpenNMT-tf
 
 ## Contents
 
@@ -29,9 +29,9 @@ The natural language recommendations are cleaned and abstracted as described in 
 
 The `code` folder contains all the necessary to *train* the models and to *test* them.
 
-For both models, the best configuration we found with the tuning of the hyperparameters is provided. To run the training it is sufficient to run the 'trainin.py' python file in the `training` subfolder.
+For both models, the best configuration we found with the tuning of the hyperparameters is provided in the respective folders. To run the training of a model it is sufficient to run the `training/trainin.py` file.
 
-Once the model is trained, it is possible to test it on the test set by running the `infer.py` python file in the `run-on-test` subfolder.
+Once the model is trained, it is possible to test it on the test set by running the `run-on-test/infer.py` file.
 
-It is possible to change the *beam search size* modifying the `beam_size` and `beam_hypotesis` parameters in the `training/data.yml` file.
+It is possible to change the *beam search size* modifying the `beam_width` and `num_hypotheses` parameters in the `training/data.yml` file.
 
