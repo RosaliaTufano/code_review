@@ -36,7 +36,7 @@ subprocess.run('chmod a+x train_model.sh', shell=True)
 
 f_sh = open('./train_model.sh', 'w')
 f_sh.write('#!/usr/bin/env bash\n')
-f_sh.write('onmt-main --model ' + custom_model + ' --gpu_allow_growth --config data.yml --auto_config train --with_eval')
+f_sh.write('onmt-main --model custom_2encoders_transformer.py --gpu_allow_growth --config data.yml --auto_config train --with_eval')
 f_sh.close()
 
 subprocess.run('./train_model.sh')
