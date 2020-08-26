@@ -1,0 +1,1719 @@
+I LIBRARY more
+consider System VAR_5 ( ) instead
+TYPE_3 more arguments need set thearguments
+called resource
+return VAR_2
+a Set < String > instead a List < String > intention code clear glance
+1 null instead 0
+present local storage ( _CODE_ ) please wrap valueOf ( ) - catch
+arguments line
+expected output changed
+logic default implementation
+access method staticly
+set a plain field need atomics : javathis VAR_1 = VAR_1 ; o VAR_2 ( ) ; VAR_1 request ( Long VAR_3 ) ;
+true - > false
+simplified
+method changed private
+s need public package internal
+step more simplifying rule : change method return a boolean : _CODE_ ( VAR_2 ) return _CODE_ ( VAR_2 ) _CODE_ ( _CODE_ : : _CODE_ ) ;
+method synchronized chances eventually a race condition setting VAR_1
+! [ BLOCKER ] ( severity : BLOCKER ) move start call another method [ ! [ rule ] ( ) ] ( )
+style : braces single line blocks
+a difference _CODE_ ( ) METHOD_2 ( ) METHOD_3 ( )
+private ? package protected access
+toni please choose variable names ? equals VAR_2 newcomer codebase avoid storing partial results : javaif ( ! TYPE_2 equals ( VAR_3 event VAR_1 ( ) ) ) { return false ; } ( ! TYPE_2 equals ( METHOD_2 ( ) event VAR_1 ( ) METHOD_3 ( ) ) ) { return false ; } return true ; pleaselet
+s obvious code duplication save new request a modified URI request methods works other classes a
+need _CODE_ nullable ? easier understand view class required s totally impractical consider a separate view class capture difference
+100% breaks binary compatibility
+Exception thrown
+instead early assignment overridden line 2355 set else part statement ( line 2356 )
+allocate write ID a DB / table related event lookup DB / table
+t static flag FS instead ? wouldn t need _CODE_ public
+a small _CODE_ 1 more reasonable check : map size ( ) > VAR_1
+shouldn t line - s handled optionally bit TYPE_4 class
+/ test case a - serializable pojo ( user type ) encoded a UTF - 8 byte [ ] some string representation
+IMHO need public
+VAR_1 [ 1 ] isEmpty
+affect sorting webadmin - webadmin support sortable columns please move logic _CODE_
+need line ? table VAR_1 ( new ArrayList < TYPE_2 > ( ) ) ;
+return VAR_1
+assertEquals ( VAR_3 VAR_2 METHOD_2 ( ) ) ;
+redundant
+s move _CODE_ METHOD_3 ( ) method
+null operande
+method private
+private
+VAR_3 log message update session key
+forgotten line code
+code don t need parameter request VAR_3
+METHOD_1 consistency
+remove
+add VAR_2
+s init VAR_2 empty collection avoid = = null
+clean ? needed example commands hard check command s wrapped decorators
+TYPE_3 throwable treated - - combine catch clauses
+remove
+info warn
+s avoid null rework empty string
+change I requested supposed remove need a read METHOD_1
+please a standard SWT table
+return true
+need a specific Exception Type
+a bug setter
+part ? checking throw statements
+fail null
+public
+please { } / else / / block
+isn t necessary
+s point catching throwing exception type
+public
+_CODE_ method signature match please update _CODE_
+requires fix : VAR_5 METHOD_3 ( ) = = type
+s : VAR_1 METHOD_2 ( ) ; { / / other stuff } finally { VAR_1 METHOD_4 ( ) ; } exception thrown decrement VAR_1 counter
+syntax typo ( add position checks _CODE_ commit )
+idea VAR_4 request a retry ( independent a speculative execution executed ? )
+I prefer full words example _CODE_
+want expected condition
+s tangential IllegalArgumentException more reasonable
+check start file newline
+another extra space plese cleanup similar ? a others some functions spaces parameters some don t _CODE_ ( TYPE_2 TYPE_3 ) VAR_1 METHOD_2 ( TYPE_10 ABM_QUERYPOS ) ; a pest messy inconsistent
+stray _CODE_ standard METHOD_1 format denizen weird inline
+resolve controller home ? _CODE_ ? s class called controller agent
+expected VAR_1 instance TYPE_5 I don t check required
+TYPE_5 a run time exception required part method signature invalid signature sonar report a _major_ category violation
+please - static similar done _CODE_
+handle error log returning null instead a viewer ? view won t work incorrect id
+I more sense omit assert expected exception cases
+method calls _CODE_ VAR_1 getName ( ) instead field getName ( ) METHOD_3 ( ) key VAR_3 map consistent s discrepancy prefixed / unprefixed
+METHOD_1 ( TYPE_1 ) called instead ( TYPE_1 ) VAR_1 ( )
+( ) initialize initial capacity number workers
+move VAR_1 declared changes
+public ANNOTATION_1 String
+logic need updated change VAR_3
+remove throws TYPE_2
+won t a double - decrement
+assumes input sorted test case calls ; test defined - sorted order
+merge 2 lines METHOD_1 returns VAR_1
+variables place remove actual place
+a METHOD_3
+list stream ( ) forEach
+isn t
+s logic method group real problem _CODE_ implementation check presence other logic affected please remove ( ) method protected
+hmm feels premature optimization VAR_1 map more a problem I m restrict usage today send VAR_1 multiple groups a good reason restrict doesn t sense streams
+issue original VAR_2 logged due error toString concern logging _new_ error issue ? stages ? 1 catch logging error log error 2 catch _that_ error log a generic static message
+private
+connection configuration serialized
+public private
+useless
+format overrides
+I m missing part case ( isn t VAR_2 size ( ) > = 0 invariant ? ) called emphasize setting 0 = > queuing
+add ( TYPE_2 ) method instead repeating code
+s a - declaration error fixed parent branch needs merged
+question column supports filtering relates multiple values
+won t work ? wait node powered want resume
+a method returns result a load method unexpected ( method )
+registered ? invokes
+luck ; - )
+remove synchronized
+braces
+protected
+METHOD_1 synchronized remove volatile keyword class member
+I m thinking new VAR_1 needed reconnect task VAR_1 dead time a new reconnect needed I timer instance serving purpose VAR_1
+couldn t depend class generate
+_CODE_ ( VAR_5 METHOD_8 ( ) VAR_8 VAR_7 ) ;
+handle VAR_4
+consistency ( another slight performance enhancement ) line changed
+yeah s remove : )
+consistency project please remove final keyword
+🐜 de - facto process errors logging handler E g logging constructs string VAR_2 _CODE_ suppresses original I d vote errors rethrown processing
+logs Logger ( ) s good
+ditto input ! = null
+want assert close cases ? i e s empty
+METHOD_2 needed METHOD_1 checks nullability
+pass id java autoboxing care
+Map
+VAR_1 — > e please
+move logic TYPE_2 VAR_3 METHOD_2
+need add message METHOD_8 location
+error reported
+nitpick : s generally safer include curly brackets _all_ statements protect a future developer accidentally introducing a bug another line added statement alternatively a more succinct writing method : return ( VAR_1 = = null ) ? Collections < String Object > METHOD_2 ( ) : VAR_1 ;
+I m public modifier version field represents reference s implementation details I doubt consumers interested I leave private ( remove ) a real usecase requires access making private hard ( due API breakage ) public problems
+drop VAR_3 check other methods file please
+negation missing ? ( ! cluster VAR_1 ( ) ) {
+removed
+ctor call ( null )
+don t change necessary
+change INT_17 case a default case remove
+move context _CODE_ ( ) METHOD_8 ( true ) ; METHOD_5 move METHOD_3 ( VAR_4 ) METHOD_8 ( true ) ; METHOD_5 test
+METHOD_4 ( ) a generic interface need type cast anymore
+line wrap
+checks parameter null update version takes a List check entries null s update line call version
+instanceof
+need careful t assume classification problems - 1 ( dimension ) instead
+log info ( ) VAR_2 info ( )
+I don t need change similar structure _CODE_ don t override METHOD_1 ( ) logic
+some unit tests ? handle extraneous whitespaces
+don t extensions public remain
+I find strange constructor some work catch surprise especially wants concatenate iterators I d hasNext ( ) ( ) advanced s more predictable similar logic _CODE_ similar TYPE_4 < Path _CODE_ >
+remove ( a b ) equals TYPE_1 remove ( a ) ! = b instead
+s remove system outs
+initialized super class
+else unnecessary
+I don t hurts line 96 sets window tbr false I property changed
+executor shouldn t needed
+final char VAR_1 ;
+I prefer move call private TYPE_1 constructor
+set races dereference L101 NPE besides set VAR_1 essentially ( a transparent _CODE_ layer ) don t need field call unsubscribe ( ) L101
+discussion : sense return enum entry I guess exists method ? other alternatives return null Optional
+please remove unnecessary brackets : return VAR_1 getStatus ( ) = = TYPE_3 down|| VAR_1 getStatus ( ) = = TYPE_3 reboot|| ( VAR_1 getStatus ( ) = = TYPE_3 _CODE_ VAR_1 METHOD_2 ( ) = = TYPE_5 VAR_8 ) ; remaining brackets necessary code more readable
+java config style d class public
+needs a substring
+inline
+constant please convert case
+copy - paste sections starting clutter presenter please extract a common denominator ( e g a function ) reduce repeating code snippets
+please overloaded constructors constructor signature wont change existing test
+don t need a private variable storing link preview line METHOD_3 ( ) function finds dialog tag ( ) cast return function a TYPE_2 call dismiss ( )
+IMO ( ) { } code easy read I meant { } missing : ) edit : s
+file needs some work ensure works client
+private
+removed
+additional check other instructions needed
+catch
+a log error statement needs space
+replacing lines : ( VAR_2 objects _CODE_ ( task ) VAR_4 ( ) task task ( ) VAR_3 ) ; removing TODO line
+add envelope section METHOD_5 method file
+set null values field
+need account probe batch size processing a spilled partition account _CODE_ late prefetched probe side batch
+shouldn t throwing run - time exceptions close called
+bug 517068 targeting 0 INT_1 1 0 INT_1 100 backported 0 INT_1 1
+return StringUtils equals ( VAR_1 METHOD_2 ( ) VAR_2 METHOD_2 ( ) ) && StringUtils equals ( VAR_1 METHOD_3 ( ) VAR_2 METHOD_3 ( ) ) ;
+I tuple size 3 I ll fix
+< 0 ? want import a 0 nanosecond range
+move VAR_3 declaration line final
+line removed
+remove final modifier
+need a fallback mechanism server a fallback mechanism greater scope lets METHOD_5 implementation client optimisation client addressed
+don t need check loop won t enter VAR_4 empty avoid multiple returns
+I m mistaken don t need reload server restart services parent resource leverage _CODE_
+throws
+log tracef
+doesn t need public
+add boolean expression line #1377
+lines 316 - 319 rewritten asreturn execute ( request ! METHOD_1 ( ) monitor ) ;
+METHOD_1 called setText instead ? text changed construction highlighted
+guideline I prefer protected visibility package protected
+I prefer IOException thrown METHOD_1 catching test fail harder debug
+VAR_6 ? AFAICT I add boot service installed immediately d redeploy app module doesn t require a reload a process restart
+remove
+I confused supposed
+boolean parameter useful enums more clear means
+cast needed
+shouldn t VAR_1 validated existence prior accessing
+some tests VAR_1 clear ( ) some don t I guess s tests assume tests executed a random order start a clean state a [ method ( _CODE_ ) ] ( ) clear TYPE_5 a good idea create a static util method others benefit
+simplified a single return statementprotected boolean METHOD_1 ( List < TYPE_1 > VAR_1 ) { return TYPE_2 METHOD_2 ( VAR_1 METHOD_3 ( ) METHOD_4 ( ) METHOD_5 ( ) ) ; }
+typo - - > ; ;
+I change order : assertTrue ( VAR_1 < VAR_5 ) ; assertTrue ( VAR_5 < VAR_4 ) ; assertTrue ( VAR_4 < VAR_3 ) ;
+add System println ( ) call ? a logger a solution
+please move check assigning variables
+please log error inform user
+private static
+private method
+sense check duplicated email ? IMO I sense hardcoded username email users ? I delete line completely delete methods METHOD_5 _CODE_ instead implement method _CODE_ _CODE_ throw error case username email configured user model attribute
+boolean instead Boolean
+isn t needed anymore
+want change hamcrest method matchers compare objects equals
+wouldn t want conditions check prior assignments
+wrap a simple long
+break loop early finding target module
+NPE
+please move METHOD_5 final statement done case please delete e VAR_5 ( ) ; - doesn t bring please delete METHOD_6 ( e getMessage ( ) ) ; - unexpected exceptions thrown test method _CODE_ handle a failing test printing exception stacktrace log
+calling METHOD_3 ( VAR_1 ) app installed dropins location configured
+please add private modifier
+I d inline conform rest class
+necessary wait 100 milliseconds ? Thread VAR_2 ( 1 ) Thread yield ( )
+_CODE_ METHOD_3 ( ) VAR_3 ( Optional VAR_4 ) length > 0 checked calling METHOD_2 ? method METHOD_2 modifies field reflection optionally recursively calls costly
+method required ? didn t code
+I don t want pass TYPE_4 TYPE_3 call ( )
+explain idea storing transformation else ( beginning repaint ( ) ) ? worth information compare _CODE_ ( ) - - date _CODE_ transformation a - atomar opration betwenn METHOD_2 ( ) _CODE_ ( ) calls
+nullable
+need
+instanceof
+please apply changes requested review
+remove line
+map ( TYPE_3 METHOD_2 ( p - > p ) ) unnecessary
+a general rule : unsure METHOD_3 a warning don t ! discovered principal problem mutable objects easy fix [ immutable objects ] ( ) TYPE_2 easily immutable instead suppressing warning
+merge lines METHOD_2 return argument
+guice constructors package private removing method modifier : _CODE_ ( ANNOTATION_1 TYPE_1 < TYPE_2 > VAR_2 ) {
+rename child
+null t null ? disable VAR_1 watching interested _CODE_ method checks return method null I guess null default
+I don t need
+s VAR_5 want return stuck another METHOD_4
+reduce debug level
+TYPE_1 qualified another TYPE_1 I s a safe assumption : - )
+valueOf more ( _CODE_ )
+job named STRING_1
+_CODE_ getProperty _CODE_ service
+_CODE_ rid synchronized keyword ? a side note I noticed haven t enabled parallel attribute annotation completely rid need ensuring Thread safety
+nicer explicitly cast ( TYPE_1 < T > ) please consider - working part changes
+more readable export symbolic constants class instead null fine clearer debugging logging
+public
+complete method stripped : { VAR_1 = TYPE_1 valueOf ( VAR_1 ) ; } catch ( Exception e ) { / / ignore unknown null values }
+put config preinit please
+recycling a VAR_2 references ( member variable VAR_2 ) bound give problems some point : another thread obtain means TYPE_1 ( ) ! insist recycling digests I guess done finalizer TYPE_2 note semantics finally don t finalizers
+mapping performed validation
+need a null case
+String valueOf ( vm VAR_6 ( ) ) instead
+[ optional ] method static moved class
+code duplicate repeated add operations necessary : return Arrays asList ( TYPE_5 TYPE_4 TYPE_1 TYPE_3 TYPE_2 ) ;
+METHOD_1 true ? I guess supposed false generic extractors I wrong
+sense expose a protected method mark beginning remove annotation package - private
+s a bad idea checking exception messages place
+( ) synchronized block
+idiomatic ? fact expect won t true s interrupted assertTrue returns ? clearer omit assertTrue
+claim return TYPE_1 ? doesn t matter : )
+Integer parseInt
+please move super METHOD_1 method
+part test calls _CODE_ close ( )
+please consider adding overridden version TYPE_1 ( String int Logger ) constructor accepts duration encapsulate type conversion
+avoid instance creation reporter exist
+don t mark methods final
+join ifs s a content assist s awesome
+please set a modifier - protected suitable
+avoid System tests instead write log4j
+crash bad format string
+longer a need VM ID
+redundant
+formatting
+[ minor ] static
+method protected writing - classing
+b ^ ( b > > INT_1 ) missed
+call alljavareturn METHOD_1 ( params ( TYPE_8 ) null ) ;
+a fragment a lifecycle consider holding a reference call < ? > canceling _CODE_ ( ) call < ? > nonnull
+passed VAR_1
+declared exception isn t thrown
+changes default behaviour ?
+return ! ( METHOD_2 ( ) || METHOD_3 ( ) ) || METHOD_4 ( ) ;
+set VAR_1 false ? I don t
+_CODE_ case InterruptedException change ? test difference
+cast operation ? asking a service interface cast a concrete implementation instanceof check perform check tracker added a TYPE_2
+String format ( ) longer necessary
+static
+instead ( callsite TYPE_2 ) _CODE_ type = context getType ( VAR_1 ) ; return type ! = null && type _CODE_ ( TYPE_2 TYPE_STRING ) ;
+inline avoid unnecessary object creation
+I reverted account additions pre - TYPE_3 implementations
+TYPE_1 current image needs updated array
+don t need calling _CODE_ public constructor
+style - : hard read : ( METHOD_2 ( ) ! = null ) return METHOD_2 ( ) METHOD_1 ( ) ; return System VAR_1 ( ) ;
+removed return VAR_1 assigning logic
+final
+variable useless cases I pass new Object [ ] { } log method
+parameter true need overwrite _CODE_
+ternary : return METHOD_2 ( ) = = null ? new TYPE_1 ( TYPE_2 VAR_2 ) : TYPE_1 VAR_3 ;
+remove METHOD_2 due I m surprised allowed explicit null check a compilation error
+( VAR_1 isEmpty ( ) )
+please add { } - liner
+I change future release s s easier update
+handling nulls ? some methods null acceptable return null s add a lombok a TYPE_1 _CODE_ ( present nulls give a - useful NPE
+( i realize crappy code ) a configuration error files fail METHOD_1 don t want eating putting log remove block constructor throw IOException rethrow exception a extra context ? prefer
+instead passing null remove check call method a new TYPE_2 object
+add null check
+TYPE_3 a runtime exception need catch rethrow ( occurrences )
+need mind sentence construction other languages query string doesn t show %1$s string values / strings xml pass query term extra argument getString ( )
+thanks marking resolved
+I don t understand need create a new ArrayList a collection coming a query - necessarily else cast s coming backend ArrayList ? means committing a specific implementation I a cast Collection more s important result specifically ArrayList ( other kind collection ) I create a new ArrayList cast result backend Collection
+class _package_ protected access constructor _package_ protection
+wouldn t starts more sense
+I notice unzigzag method unsigned shift operator ( > > > ) signed ( > > ) intentional
+please create method METHOD_2 ( ) { METHOD_2 ( TYPE_1 VAR_2 ) ; } method _CODE_ ( )
+need / catch ? METHOD_9 fails junit care stack
+please consider adding overridden version TYPE_2 ( String int Logger ) constructor accepts duration encapsulate type conversion
+shouldn t > 1
+debug level
+shouldn t wrap original e
+new flag VAR_3 passed ( ) _CODE_
+need cast String VAR_3 a generic method public < T > T VAR_3 ( String key )
+check queue 0 ? acquire a connection waiting exchanges
+return null ? I meant false
+I wary coz existing schedulers setting removed immediately ideally want position rolling don t want unexpected behaviors
+ah s meant = ) isn t good : s generic wouldn t debug a failure VAR_2 log a warning return false warning specific wrong i e new maximum allowed
+want move trace debug
+return result addAll ( VAR_1 keySet ( ) ) ;
+I constructor protected instantiate abstract classes answers a discussion
+shouldn t line _CODE_ ( VAR_1 METHOD_3 ( VAR_1 ( ) ) ) ;
+open a stream object closing - - resources statement avoid / handle unhandled IOException
+I bug fault I suggested clearing VAR_4 a bad VAR_4 shared transactions immutable set I ll open issue
+I simplify return METHOD_2 ( buf VAR_1 ) && ( buf [ VAR_1 ] & VAR_3 ! = 0 ) && ( buf [ VAR_1 + 1 ] & VAR_4 ) ! = 0 )
+remove println
+I dont throwing exceptions instead empty implementations
+isn t needed - conditions added outer
+change a loop caller scan state equal state a private method safe assume caller checked ( lock ) METHOD_3 a state change
+merge VAR_1 VAR_5
+cast TYPE_2
+leveraged _CODE_ [ ] ( )
+currently test fails error stacktrace original failure I pinpointing culprit easier ? preference feel free ignore : )
+I dont check needed ( throw index bounds exception )
+METHOD_3 ( ) нужно поставить где сессия закрывается вообще а не для конкретного юзера
+run checks constructor reconciler null create actual list - null reconcilers dereferenced
+а мы разве можем хоть когда - то не захотеть добавлять listener - я бы это унес прям в основной _CODE_
+AFAIK redundant
+_CODE_ class return VAR_1 ( )
+LOG debug please avoid overhead operations
+logic switch true ( behavior )
+aren t description properties added super class
+TYPE_2 ( int ) returning a char ( primitive type ) = = test works I returning TYPE_2 ( object wrapper char ) need equals
+redundant cast
+style - : curly brackets wrap return line
+inline suggestionreturn STRING_1 + VAR_2 ;
+don t validate other builders method ( don t )
+statement rewritten inline
+needed
+TYPE_1 supposed extended replace a ( ! ( object instanceof TYPE_1 ) ) t null s instance TYPE_1 I put ( object = = ) test instead
+public API t visibility deprecating
+neat
+list empty adds - xfriend - paths = option
+need super ( ) class inheriting a super class
+minor duplicating lines 44 - 51 put a private method invoked constructors constructor invoke other
+bad I fixed work branch : states overcomplicated s place wicket core needing test flag
+doesn t thread - safe
+s remove behavior METHOD_1 affect indicators
+I guess longer need VAR_1 _CODE_ implementation fully locking
+VAR_1 null ll a NPE VAR_1 VAR_4 METHOD_3 ( )
+I drop redundant TYPE_1 suffix task types e g : STRING_3 - > VAR_8 _CODE_ - > _CODE_ _CODE_ - > timeout _CODE_ - > _CODE_
+stated I don t need method throw exception
+pass null status I refactored similar code status part event
+I don t understand check METHOD_6 check checking rights
+delete TYPE_2 java file
+don t firing events holding locks receives a TYPE_2 access _CODE_ ( altogether unreasonable ! ) ll a nasty deadlock VAR_1 a _CODE_ drop synchronization
+remove METHOD_1 external annotation Collections VAR_3 ( )
+case switching opinion s etry / finnally : METHOD_2 ( ) ; { METHOD_3 ( VAR_1 ) ; / / opens new tab template _CODE_ METHOD_4 ( ) ; return new TYPE_1 ( VAR_2 ) ; } finally { METHOD_5 ( ) ; } s clearer reading
+work ? ( removing import ) suggestion METHOD_5 ( VAR_3 - > VAR_3 [ 0 ] instanceof TYPE_3 ) ;
+ArrayList < >
+I necessary GC remove soon more reference Object
+IllegalArgumentException sounds
+nice add exception text unable METHOD_2 list connector configurations
+separate test cases returning clause
+I other parts class put METHOD_2 calls another method call s sake slightly readability : METHOD_2 ( path STRING_1 ) ; VAR_1 set ( path ) ;
+public TYPE_1 METHOD_1 ( ) throws IOException InterruptedException { TYPE_1 VAR_1 = VAR_1 ; ( VAR_1 ! = null ) { return VAR_1 ; VAR_1 = TYPE_1 METHOD_2 ( METHOD_3 ( ) ) ; / / - null values equivalent a race doesn t matter winsthis VAR_1 = VAR_1 ; return VAR_1 ; }
+add METHOD_2
+isEmpty ( )
+Я еще люблю в сообщение вставлять изначальный exception nипа failed check data source + e toString ( ) e )
+need center give SWT
+I need call super loose permissions need check default
+wrong error propagated drivers init struct size 2 size 1 saved ignoring struct size read init message
+remove public modifier
+elena need block
+( TYPE_2 ) needed
+technically VAR_1 close ( ) ( t - w - r ) ensure proper cleanup temp files ( whatevers ) created
+shouldn t protected public
+ah I guess lack a guice context ( ) reason system properties ? solve jclouds ? inject some kind factory object guice
+s / STRING_1 / TYPE_2
+method public s point
+Exception thrown
+container exists method return false [ container exists call returns a 404 ] ( ) worth removing catch caused other errors acount
+convention called s a explicit reason needs happen ( a code smell )
+static import functions
+needed
+mind code style
+merge lines METHOD_2 return argument
+a matter taste - VAR_2 avoided sake return statements - else block
+generic mars code won t compile previous platform
+I d prefer handled ( snapshot type ) a separate change
+afacit vvv noise
+worries a bit imagine _each_ decorator start service ( means I m familiar papyrus services ) check a common services ? share a common instance decorators
+rely Optional introducing another method lead _CODE_
+create empty directory tests extend class ? I guess need create tests need
+I code necessary wrong throw new RuntimeException ( ) method s prefer
+return null instead priority
+? ? pourquoi cette ligne TYPE_3 est déjà une classe concrète
+VAR_1 check necessary
+s TYPE_2 create avoid / catch
+need content constructor
+return
+result - > size
+= = instead equals ( instances ) null - safe
+en profiter pour enlever cette variable intermédiaire
+I understand change correctly shouldn t needed anymore
+method static i guess ? more relevant : method necessary ? i usage
+please check fragment exists lead a null - pointer exception
+shouldn t return TYPE_1 ? TYPE_1 null means
+VAR_1 nullable
+apply saveaction
+I I 20 exercise key migration code more
+METHOD_3 ( )
+I auth system remain method
+private static
+move default
+shouldn t need check clear fields _CODE_ a closeable guarantees close ( ) idempotent : > stream closed invoking method effect
+( ) ( btw VAR_1 plain check hoisted d turning null )
+I need super close ( )
+( VAR_1 VAR_1 ) doesn t
+rm public
+replace equals = = enums
+great map generics
+) { line
+need throw exception ? remove TODO
+alisteners forEach ( listener - > VAR_3 ( VAR_1 ) ) ; time more compact readable faster ( streams slow )
+please immutable collection
+_CODE_ constructor _CODE_ instead TYPE_4
+VAR_2 t null constructor throw a NPE
+VAR_2
+extract VAR_3 - stream extraction method
+I don t understand - perform command host connection removed db perform disconnect other hosts ? load connection return null ? care i guess
+curious : remove METHOD_2
+perform operation custom TYPE_3 METHOD_3 ( ) method instead
+please replace occurrences TYPE_3 code style recommend add a prefix a function call function current object
+a leftover removed
+missed a space ) {
+doesn t change
+minor : move declaration block
+_CODE_ _CODE_ ( getClass ( ) _CODE_ class ) ; check type parameter
+fix
+method return null ? return empty string
+java lang String
+formatting weird
+please protected avoid exposing methods consumers API care
+obtain session ? approach s pluggable
+A null check needed NPE thrown reopening a large project java lang _CODE_ org eclipse egit core synchronize _CODE_ METHOD_1 ( _CODE_ java : 141 ) org eclipse egit core synchronize _CODE_ access$1 ( _CODE_ java : 137 ) org eclipse egit core synchronize _CODE_ _CODE_ ( _CODE_ java : 69 ) org eclipse egit core internal indexdiff _CODE_ _CODE_ ( _CODE_ java : 94 ) org eclipse egit core internal indexdiff _CODE_ access$0 ( _CODE_ java : 86 ) org eclipse egit core internal indexdiff _CODE_ _CODE_ ( _CODE_ java : 81 ) org eclipse egit core internal indexdiff _CODE_ _CODE_ ( _CODE_ java : 313 ) org eclipse egit core internal indexdiff _CODE_ access$6 ( _CODE_ java : 306 ) org eclipse egit core internal indexdiff _CODE_ run ( _CODE_ java : 171 ) org eclipse core internal jobs worker run ( worker java : 54 )
+don t necessarily need type info hand assignment anymore mention ways
+remove unused level remove
+I prefer move logic TYPE_1
+VAR_2 – > separator
+single - log manager METHOD_1 rotated logs flushing current logs rotates files checkpoint I prefer keeping existing logic unchanged reduce risks besides provide METHOD_1 method _CODE_ ? entry log manager implementation implement flushing logic exposing knowledge _CODE_ provide METHOD_1 method don t need expose METHOD_2 METHOD_3
+notice _CODE_ java needs treatment
+s point return s true
+I converter part DAO save single entity I suggest i move code service layer
+ternary operator Optional java8 Optional _CODE_ ( VAR_1 ) _CODE_ ( ( ) - > new TYPE_2 ( ) ) ;
+allow field null
+change private
+METHOD_2 ( ) return a list blob ids avoid VAR_1 clear ( ) call VAR_1 = VAR_2 METHOD_2 ( ) everytime
+static import METHOD_5
+easier read surround entire method type / catch : TYPE_1 METHOD_1 ( ) throws IOException { { TYPE_2 VAR_1 = METHOD_2 ( ) ; return TYPE_5 METHOD_4 ( VAR_1 VAR_2 METHOD_5 ( ) METHOD_6 ( ) ) ; } catch ( TYPE_3 e ) { throw TYPE_4 METHOD_3 ( e ) ; } } please apply hint methods type catch
+Map < TYPE_2 TYPE_3 > result = new TYPE_1 < > ( ) ;
+handle exceptions multi - catch : } catch ( TYPE_5 | TYPE_6 | TYPE_7 | IOException e ) {
+passing message a marker throw weird _CODE_
+internally druid treats nulls empty strings similar values I workaround _CODE_ = = null ? : _CODE_ s handling nulls empty strings
+default : throw new IllegalArgumentException
+consider ! _CODE_ isEmpty ( )
+! [ MINOR ] ( severity : MINOR ) remove redundant ! _CODE_ ! thrown exception declaration ( s ) [ ! [ rule ] ( ) ] ( )
+please body line
+FALSE static final
+private
+I m INFO message helpful users
+results conversion applyed subclass TYPE_5 applied exact TYPE_5
+TYPE_1 ? filtering
+connector setup fail exception occurs
+simpler : VAR_1 ! = && VAR_1 METHOD_2 ( )
+add tooltip
+removed static
+jgit spells ( ; ; )
+? ? ? s I revert changes VAR_10 PR clear
+hmmm wrong ? methods passing null other passing VAR_1
+need result variable
+please log debug trace
+I m mistaken shouldn t VAR_1 METHOD_2 ( ) null drop check
+simple enough inlined
+please split test testing case separately
+coding conventions : s @Override line please
+needs @Override
+issue rewritten asjavaif ( entity VAR_1 ( ) ) { / / stuff } avoid multiple points return method ( save a line code )
+isn t Optional returning null contradictory ? surely checking isPresent ( ) _CODE_ ( )
+code consistency METHOD_3 ( STRING_3 ) ;
+return true instead
+public
+replace ( new TYPE_2 ( VAR_2 VAR_3 ) VAR_3 ) consolidates c tor logic place
+please add braces conditionals ( { } )
+( ! VAR_5 ) {
+unreachable remove
+I condition needs top start VAR_1 length ( ) > 1 instead VAR_1 length ( ) > 2 I generated code getters / setters rules fields * * _CODE_ * * * * _CODE_ * * I wrong
+logging statements needed
+I don t code contract od sselection return null METHOD_3 ( ) sselection empty code changed simply return element
+reasonable caller pass a null VAR_1 constructor ? constructor throw a _CODE_ null
+a bit weird create empty TYPE_2 storage pool t pass null backend case
+private
+needed
+shouldn t call METHOD_9 ( ) config passed lose local values passed obtain ( ) method agree
+missing _CODE_
+lines squashed : return STRING_1 equalsIgnoreCase ( VAR_1 ) || STRING_2 equalsIgnoreCase ( VAR_1 ) ;
+I instead : METHOD_1 ( VAR_2 VAR_3 ( VAR_4 ! = null && TYPE_1 METHOD_2 ( VAR_2 ) ) ? VAR_4 : null ) ; IOW point spending time checking cache s VAR_4 provided
+fact postfix operators return modification shouldn t change order CFG loading happen operation i e order
+Class < ? >
+good
+ROLE_ANONYMOUS defaults TYPE_1 delete
+suggestionreturn VAR_1 METHOD_1 ( ) ;
+atomically
+please add curlies
+clarity s preferable : Map Entry
+I m concerned METHOD_2 doesn t necessary operation invoking private method guarded a thread needs acquire locks I alarm bell ringing head
+_CODE_ instances return - 1 don t length
+performance gezien het natuurlijk handiger eerst een boolean check te hebben en dan extra logica
+handle
+finally needed close throws test fail won t care VAR_1 null
+throws exception ? mapped a _CODE_ caller report error
+s broken ( add some details commit message ) ? obvious
+return ImmutableList don t intend users method edit list
+! VAR_3 || VAR_4
+I m reworking code context class avoid potential NPE VAR_3 field initialized - args constructor
+move body won t execute batch
+pick : VAR_1 METHOD_1 xored / added distributed
+function throw TYPE_1
+I woudl remove else VAR_2 a wrapper false VAR_1 _CODE_ want fall METHOD_2 check
+change log level debug ? doesn t worth info level
+done
+useless parenthesis
+TYPE_4 TYPE_5
+wouldn t call new constructor ? easier maintenance future
+obsolete _CODE_ implemented
+else line
+Class < ? >
+I suppose close ( ) done TYPE_2 read ( )
+I don t I need cast group artifact _CODE_ accessible interface level version accessible I don t add : multimodule project compilaton afaik modules GA version project
+operation O ( n ) size list small making sense a set instead
+return instantiating map
+TYPE_2 METHOD_2 instead ! = null
+1 more correct AFAIC skip
+simpler rename field _CODE_ discard data automatically
+don t need + operator
+simplified : javareturn input - > VAR_1 = = null || VAR_1 ( input getKey ( ) ) ;
+nitjavathis client = METHOD_1 ( client STRING_1 ) ;
+METHOD_5 ? example line #755
+member variable VAR_4 shouldnt parameter VAR_1
+explain necessary
+i need save line more readable
+drop toString ( )
+missing return statement breaking compiling code
+METHOD_5 - needed undesired incase changes
+wrong entry getValue ( )
+methods public part public API class want restrict access class class package private
+abstract I choose operation controller case future wish choose loaded compared others
+I null a configuration saved < VAR_1 > entry reloaded I don t happen - some version jenkins done sense modify a _CODE_ ( ) set empty list remove check theoretical possibility
+please pass original exception retain stacktrace message
+sdk version hardcoded
+protected I assume _CODE_
+VAR_9
+TYPE_3
+protected ? detect option internally ( handler ) method signature
+code level STRING_1 ? causing failure METHOD_1 ( ) calls compared _CODE_ _CODE_
+METHOD_4 ( ) instead METHOD_4 ( )
+add a _CODE_ ( TYPE_1 ) method avoid duplication
+I METHOD_2 function parmeters add a parameter
+_CODE_ implement TYPE_1 method create a lamda return instead
+model change listener called single modification ? I explain good
+I understand ut hell
+suggestion
+return null
+final ? important method serialization / internal representation s pretty important overridden
+close implicit METHOD_1
+need parentheses
+please don t create a new list call METHOD_1 ( ) create list e g call return instance want _CODE_ instead fail early modify
+need expose TYPE_2 TYPE_3 ? completely unnecessary
+super METHOD_1 ( ) forEach ( res : : add ) ;
+METHOD_2 line affectation
+I METHOD_3 ( ) || _CODE_ ( ) ! = _CODE_
+method static
+need declare throws TYPE_2
+I insist methods a CT * parameter annotated private
+d { } fold conditional a single return statement
+static
+necessary
+done
+result = VAR_1 * result + METHOD_3 ( ) METHOD_1 ( ) ; _CODE_ s METHOD_1 method _CODE_ allowed null work id valid
+private
+purpose _CODE_ abstract implementation details querying device list caller - moving changes done _CODE_ _CODE_
+please add { } blocks statement
+_CODE_ element page
+need String format parameter provide throw new IllegalArgumentException ( STRING_1 ) ; improve message somethign : throw new IllegalArgumentException ( String format ( port greater 0 ( provided { 0 } ) VAR_2 ) ) ;
+static import
+public
+inline variable
+instead creating a new object time more sense store constants predefined granularity string
+style : don t braces single line blocks
+create a common utility function build _CODE_ duplicate kind code
+don t need toString call
+don t prefer assertEquals
+VAR_2 constant want define a instead String : privates static final VAR_2 = _CODE_ _CODE_ ( mandatory ) ; compare easily : return VAR_1 METHOD_2 ( ) equals ( VAR_2 ) ;
+good change making instance member thanks
+VAR_2 = + + VAR_2 % VAR_3 ; return VAR_2 = = 0 ; remove _CODE_ ? properly verified merge change master -
+STRING_2 class errors I 53300 transient
+pointed line problem ? problem _CODE_ called done method
+VAR_3 ( 1 VAR_1 METHOD_6 ( ) ) ? 1 a - existent executor
+Exception thrown
+VAR_1 toString ( ) redundant
+TCM optional android system service check null
+mime type mandatory
+I VAR_1 shut ( ! VAR_2 )
+pass VAR_4 VAR_2 a param adapter
+a reason displayed everytime ? shown project selected
+method grow ( i wanted add ) putting a more lengthy more readable ? ( note I changed TYPE_4 s condition ) ( VAR_1 instanceof TYPE_3 ) { return true ; } ( VAR_1 instanceof TYPE_2 ) { return true ; / / differentiate partial / } ( VAR_1 instanceof TYPE_4 ) { return ( ( TYPE_4 ) VAR_1 ) METHOD_2 ( ) ! = TYPE_4 TYPE_5 FINAL ; } return false ;
+_CODE_ ( response ) ;
+suggestionbuilder append ( Integer toString ( node getValue ( ) ) ) ; cheaper String format
+essentially line code I d prefer inline
+avoid redundant pattern check : suggestionthis ( query VAR_2 null ) ;
+return ImmutableList ( VAR_2 ) ; instead
+standard jclouds pattern METHOD_3 ( VAR_1 VAR_1 ) case s expected a varargs argument null empty array instead want enforce check : _CODE_ ( VAR_1 length > 0 VAR_1 empty ) ; return VAR_1 ( TYPE_2 METHOD_2 ( VAR_1 ) ) ; VAR_1 ( iterable < String > VAR_1 ) checks I don t need check
+style - : don t put ( ) ? : a return
+private
+simpler return = = VAR_1
+done
+s v2 older hosts won t work HEAD
+I recommend Collections _CODE_ ( ) instead
+relative : frontend / webadmin / modules / uicommonweb / src / main / java / org / ovirt / engine / ui / uicommonweb / _CODE_ java
+don t need refer entry getName ( ) places
+I d assert created VM
+package - private
+idem
+constructor i e reflection
+change return type METHOD_2 implementation avoid cast
+JDT compact assignement e g i = 3 ;
+please remove due incorrect / / hosts file test environment
+package private removing protected modifier
+return immediately need store a local var
+class effectively a provider instead export bind JMX export bind IO VAR_2 export happen normal
+METHOD_2 return save 2 checks
+planner enable_hashagg set * * false * * ? planner enable_streamagg defaults * * true * *
+throw IllegalArgumentException case doesn t match enum constant s easier compare ( ) enum constants : ( TYPE_1 status : values ) { ( status ( ) equals ( ) ) { return true ; } } return false ;
+ctx close ( )
+remove public
+forcing orientation a good idea super METHOD_1 ( ) instead override METHOD_1 ( ) method print a log throw exception mess
+shouldn t a part _CODE_ method
+don t need give string ( other similar ) s default message METHOD_2 ( key )
+annotation annotation a event handler / event handlers class a server client don t need check mode VAR_1
+block useless
+TYPE_2 constructor takes care
+inherited m_isleadertoreplica instead adding a new VAR_15 ? message leader replica MPI leader
+return true want VAR_1 instead null
+method private
+return null instead throwing exception ? wrong wouldn t need empty catch block
+please put brackets easier read
+save assign a new subscription unsubscribing a potentially existing previous subscription ? ask : guarantee called times a row activity lifecycle VAR_1 = = true
+needed
+I I multiple VAR_3 types enum : VAR_3 ppc64 ppcle ppc64le
+private
+simplified : > return ;
+false = = a peculiar express ! BTW peculiar a polite wrong
+cell please
+relevant IMO s data rules internal helper practice true s a singleton component
+reason added TYPE_2 ? remove s a method class
+Math max ( VAR_4 VAR_3 ) a bit clearer
+doesn t I suspect loss logs logback solved problem enabled
+I PR ( ) _CODE_ _CODE_ ( ) honestly _CODE_ changed tojavaprivate static final Logger LOGGER = _CODE_ _CODE_ ( _CODE_ ID ) ;
+checkstyle violation : [ ant : checkstyle ] [ ERROR ] / home / travis / build / spring - projects / spring - integration / spring - integration - ftp / src / main / java / org / springframework / integration / ftp / session / _CODE_ java : 157 : construct { } s [ _CODE_ ] verify locally gradlew clean : spring - integration - ftp : check
+extra ( clutter ) please
+VAR_6 * VAR_3
+throw exception
+! [ MINOR ] ( severity : MINOR ) remove redundant ! _CODE_ ! thrown exception declaration ( s ) [ ! [ rule ] ( ) ] ( )
+revert change
+exceptions unacceptable ( intended pun miserably failed ) listing clusters resource - allocation - change related exception occur a entity kind
+_CODE_ needed
+entrySet
+I thinkreturn ( VAR_2 size ( ) > VAR_1 size ( ) ) sufficient
+unnecessary VAR_2 added VAR_1 created
+scope block broader necessary needs line
+return Object instead T
+please remove alias setting ( encapsulated METHOD_4
+return
+I recommend adding { }
+a leftover hasn t usage remove
+point exposing constructor a single public method methods private ( static require a constructor )
+please improve error handling accordance : introduce _CODE_ implements _CODE_ catch METHOD_5 done methods implement generic interfaces * raw methods throw _CODE_
+need prepend blank space TYPE_4 format ( ) ? able simplify a
+effectively final class throw new TYPE_2 ( )
+please add actual type case fails
+please put correct status
+static
+slightly simplify : javareturn result ! = null && objects equals ( TYPE_1 Type VAR_2 result getType ( ) ) ;
+change order lines
+need method public ? place s package protected / default work
+I VAR_1 ( )
+dude
+generally speaking s need null fields object hold reference object GC job don t need : )
+public
+synchronized protection function protect _CODE_ function I need add a note remind caller future remember protect
+specific reason method static anymore
+a note consistency : sense find free port set system property setting org uberfire nio git daemon enabled = false lines
+method useful deprecated future
+thanks PR ! I noticed log messages completely redundant ; remove combine a single log
+put && previous
+check null missing
+constructor package private instead private avoid a generated synthetic constructor
+I METHOD_5 ( ) preferred toString ( ) TYPE_1 toString ( ) separator / platforms need docs METHOD_5 ( ) matched _CODE_ ( ) converting Path METHOD_5 ( ) doubles : belongs device part ( windows ) example c : \one\two : x transformed c : / / / : : x segments : symbols difference toString ( ) a segment : symbol _CODE_ ( ) necessary restore original path linux
+VAR_4 wrong ? VAR_4 ( )
+METHOD_4 mutable caller
+a check viewer ? shouldn t VAR_3 ? table
+t move check _CODE_ extend some common hive test class
+fields set AOP _CODE_ needs delegate METHOD_4 instead calling DAO case extra logic save method don t want pass
+rename child
+return null layer visibility = false
+reason _CODE_ supports reusing existing _CODE_ ( instead maintaining ) save object parsing I s flexible set - caller setting want
+shouldn t VAR_1 Optional ? me… I don t need introduce Optional caller careful calling a null
+I don t advantage METHOD_2 ( )
+STRING_1 equals ( ) null safe consistent check method
+VAR_4 updated
+ack
+VAR_1 - > message
+minor suggestion change exception : throw new IllegalArgumentException ( STRING_1 ) ;
+return METHOD_2 ( ) ! = null && ( STRING_1 ( METHOD_2 ( ) ) || STRING_2 ( METHOD_2 ( ) ) ) ;
+shouldn t public
+please change discussed
+a incompatible change merged
+remove obsolete class casts
+wouldn t check instance Date delegate METHOD_2 ( Date Date )
+don t need else clause clause a return
+I class
+VAR_4 values ( ) stream ( ) forEach ( : : METHOD_2 )
+dumb add a TYPE_7 id form _CODE_ _CODE_ _CODE_ factory perform 1 cache lookup 2
+throw IllegalStateException similar
+I don t emit event case another I case ( JMS ) update _CODE_ database currently don t update case normal JPA _CODE_ tasks isn t a bit index persist VAR_1
+remember put { } / else / /
+I turn && A simple _CODE_ check a lot cheaper full parameter assignment verification
+approach won t work classes a project a single root package : package org ; import org B ; class A { org B b ; / / noncompliant } package org ; class B { } rely type VAR_1 identifier parent member select parent a member select ( parent ( TYPE_5 VAR_4 ) ) { _CODE_ METHOD_3 = ( ( TYPE_4 ) parent ) METHOD_3 ( ) ; ( METHOD_3 ( TYPE_5 VAR_4 ) && ! ( ( TYPE_4 ) METHOD_3 ) identifier ( ) VAR_1 ( ) _CODE_ ( ) ) { return ; } METHOD_4 ( parent String format ( VAR_5 VAR_1 ( ) ) ) ; VAR_6 add ( parent ) ; }
+doesn t work create a method _CODE_ ? code lines beginning test class
+lambdas
+super VAR_2 field protected remove ? a protected _CODE_ ( ) method
+pass null instead new HashMap < String TYPE_4 > ( )
+i don t redeclaring type side needed
+eeek eatin exceptions
+stream ? entrySet iterable
+please invert condition
+missing braces
+a voided field cohort_member table ? theory members don t removed set need update TYPE_1 _CODE_ ( ) set stop date instead removing means METHOD_1 ( ) return cohorts patient current date i e members stop date _CODE_ current date date current date
+succeed VAR_3 METHOD_2 ( ) isn t called ( VAR_2 null )
+VAR_4 length consistency _CODE_ long METHOD_1 ( ) { long VAR_1 = 0 ; ( int i = 0 ; i < VAR_4 length ; i + + ) { VAR_1 + = VAR_4 [ i ] METHOD_1 ( ) ; } return VAR_1 ; }
+replace ( model ) ;
+I d expect other version a WAN version I m thinking subclassing version create _CODE_ _CODE_ - compare / sort versions properly - validate set a cluster version t replaced a WAN version ( checking sign bit ) vice - versa WDYT
+I I I feel including STRING_1
+stackable armo ( u ) r
+I don t understand VAR_1 ( ) higher equal config VAR_2 won t store shutting / shut
+INT_1 a constant
+WARN some exception thrown ? instead logging ip incorrect validation done _CODE_ method validated earlier
+shouldn t message size
+VAR_1 forEach
+contract return method ? state move METHOD_1 successful ( i e true )
+- resources
+class abstract constructor protected
+approach root collections VAR_9 - collections / resources NPE ll need inject runtime resource
+VAR_1 atomic
+need sequence number wrap account alternatively unconditionally set VAR_2 prevent VAR_2 set VAR_1 set I don t adding kind logic setters d a _CODE_ ( ) method
+VAR_1 METHOD_2 ( null ) instead done patch set 2
+a couple questions : - t return true ? - configure multiple directory providers
+move line method optimization
+< 0 ? isnt Integer null ? ( other fields vm dynamic )
+I slightly darker manually page subtle I didn t
+exception thrown wrap VAR_1 close ( ) a - finally block guarantee resources properly closed
+aren t set logging properties
+I = = instead equals TYPE_1 don t implement equals super slow ( compare big files contents ) need put = = null anymore input null
+final
+copy a new set user able modify set builder
+sense synchronizing a new object meaningless I VAR_2 null want synchronize object final null instead simply clear ( ) dispose
+VAR_3 isEmpty ( )
+I alternatively move construction service test cases a factory method sets a METHOD_3 function object field call METHOD_1 prevent some other unwanted potential side - effects approach construct services METHOD_3 example service submits a scheduled task I fine safer function proposed
+swap left equals avoid _CODE_ equalsIgnoreCase insteadstring_1 equalsIgnoreCase ( VAR_2 ) ;
+missing synchronization
+shouldn t necessary anymore _CODE_ METHOD_2 ( ) trigger event listener more VAR_1 detected modified means drop METHOD_3 ( ) call
+LB impls ( base version ) deprecating METHOD_2 ( boolean ) preferable move code logic _CODE_ ( ) _CODE_ ( ) defer METHOD_2 ( boolean ) call METHOD_1 _CODE_ based boolean
+throw _CODE_ storage domain attached storage pool
+returning Integer instead plain int
+TODO changed line reason a multi list change return multiple values
+readability i sort methods METHOD_1 - > _CODE_ - > _CODE_ - > flush please order private methods : method a private method - > private method
+VAR_1 substring ( 0 1 )
+redundant question : _CODE_ warning s ? turn
+change unneeded unchecked removed
+changing expectation related production code changed ? events ( modification modification 2 ) please note test platform dependent targetting linux CI reports issues flakes test OS running tests ? CI build :
+isn t VAR_2 checking null
+block shortened VAR_1 METHOD_4 ( VAR_2 METHOD_3 ( TYPE_3 VAR_4 ) )
+propagated exception logged ? result logging
+default constructor assign null VAR_2
+helper setting common options
+small typo - I supposed VAR_3
+s state class s invalid s parameter relevant exception a case _CODE_
+please add overloaded constructor comparibility ( _CODE_ ( boolean ) )
+사소한 거긴 하지만if ( a ) { } a { } 가 되지 않도록 순서를 변경해 주세요
+I annotated nonnull assertion s leave
+work : VAR_1 add ( new TYPE_2 ( config VAR_3 ) ) ; save a line declaring a VAR_2 object
+log trace
+a part java spec I m familiar ( ( VAR_2 ? 1 : 0 ) ^ ) < 0 VAR_2 ^ ( < 0 )
+unroll new configurable method instead
+shouldn t return false VAR_2 = false ? parameter sounds message needed give correct return
+private
+need type parameter
+doesn t need else clause more readable invert logic block i e : ( e ! = null ) { throw e ; } TYPE_1 METHOD_4 ( VAR_3 ) ; return TYPE_3 VAR_2 ;
+VAR_4 start 1 0 ? starts conditional wrong : VAR_4 = 1 VAR_1 = 7 VAR_2 = 5 return false a page
+necessary add check ? doesn t _CODE_ prevent login request reaching point
+missing argument view actual exception message / stack trace : file : + VAR_3 e )
+avoid VAR_5 cluster manager trust list modified
+I remove variables return new TYPE_2 ( true VAR_3 ) ; applied other methods
+remove unnecessary final modifier local variables modified classes
+remove instead
+needs VAR_1 + 1 parameter _length_ VAR_1 _index_
+s / n / / n index
+argument version METHOD_1 argument passed
+default ? I agree nice ( surely BV 1 2 ) spec [ describes ] ( ) arg0 arg1 default names I feel stick
+need declare object assign null ? remove
+cruft doesn t matter unused variable
+remove
+please change ternary
+need METHOD_6 METHOD_7 ( String VAR_5 ) implicit METHOD_8 ( STRING_1 )
+null pointer
+private
+import class Messages
+VAR_4 redundant VAR_2
+good worth protect _CODE_ ( ) _CODE_ ( ) ll throw _CODE_ VAR_1 empty
+necessary set ? wouldnt sufficient done layout test
+I don t TYPE_4 necessary necessary method call ( ) conflicts method anonymous class
+potential NPE entity NULL
+preference remove e _CODE_ ( ) altogether error filters determine want log error
+rename element
+( _CODE_ NO_RESPONSE ) void return _CODE_ / enable
+option validators typed : public static final _CODE_ TYPE_1 change line : return options VAR_1 ( TYPE_1 ) ; other option
+need copy env ? accessible _CODE_ ( ) _CODE_ ( )
+IllegalArgumentException
+required render _CODE_ a TESR
+_smells_ bad reasoning catch TYPE_2
+suggestion ( ) - > new TYPE_1 < > ( TYPE_4 METHOD_3 ( TYPE_2 : : METHOD_6 ) METHOD_5 ( TYPE_2 : : METHOD_4 ) ) Collectors VAR_3 ( ) ) ) ;
+1 set method private 2 create helpers property
+please post examples content new metadata cache files jira description
+@Override a line _CODE_ ( )
+bagit folder hidden bagit incubating version bagit spec ; solves a lot problems originial spec
+remove final modifiers
+breaks compatibility
+a copy constructor case
+null interpreted a null flag a null flag [ ] causing some _CODE_ test suite :
+ternary ? true : false ; )
+a lot calls method resulting VAR_2 reference BPMN element a quick element id reference
+suggestion : else - provide missing braces instead length ( ) = = 0 I d isEmpty ( )
+don t want pick _CODE_ chrome chromium ? match : { _CODE_ : chrome STRING_2 : { } } isn t want
+METHOD_3 ( ) null annotate
+METHOD_2 ? TYPE_5 filter returns iterable
+_CODE_ a blocked call reason - - I asking general convention presto _CODE_ < TYPE_1 > cases
+useless clear ( ) resets position zero
+merge line
+entitlement mode included ? a mode list set owner include ? valid set list entitlements option list empty means set entitlement
+I remembered failed testing querydls - sql module s
+_CODE_ METHOD_3 ( ) ; _CODE_ = null ; で解決すると思います
+declare logger top class : javaprivate static final Logger log = Logger ( TYPE_3 class ) ; ( inline Logger ( ) pattern some tests s normal )
+private static
+readability i prefer a method called _CODE_ determine METHOD_2
+missing assertNotNull _CODE_
+remove reversal JDK 8 implementation return METHOD_4 JDK 9 implementation * * reversed
+point catching exception
+method private
+imperative template : shouldn t deprecate methods introduce TYPE_3 < TYPE_1 < T > > search ( … )
+true
+check null set - null IDK code handles null differently
+I need return VAR_4 b / c max degree ! = VAR_7 return 1 40
+synchronized
+line breaked )
+add type parameter s object
+method doesn t need public
+return
+move close ( ) a finally - block
+worth checking need method patch Boolean VAR_6 a primitive false
+create new TYPE_3 syncexec
+I public IMO called Builder
+sounds reasonable
+set _CODE_ instead
+replace VAR_1 s URL s wrap s long : javareturn VAR_2 METHOD_2 ( ) VAR_1 ( VAR_1 ) METHOD_3 ( STRING_1 ) path ( VAR_3 toString ( ) ) path ( String valueOf ( VAR_4 METHOD_4 ( ) ) ) METHOD_5 ( ) build ( ) ;
+_CODE_ ( VAR_2 length ( ) TYPE_1 size ( VAR_3 METHOD_2 ( ) ) ) ;
+add { }
+don t method throw IOException rid
+clarify catch TYPE_2 thrown _CODE_ ? wan include thrown e new TYPE_2 created
+debug
+METHOD_8 ( 1 ) default METHOD_7
+done _CODE_ instead ? method called more want ensure set environment config time task _CODE_ methods a good place a reason
+principal login test print root need print
+done
+call read ( String line TYPE_1 reuse ) pass null reuse duplicate method
+a part METHOD_4 method ? instead a wrapper ? call METHOD_3
+TYPE_4 necessary
+please loop style reduce GC
+change ( VAR_1 ! = null ) { } avoid outer clause
+merge lines METHOD_2 return argument
+_CODE_ = request ;
+high requests rate discussing 1mln / s ? coordinator balancing process choke halt amount long discussed queue show a mere slight latency I m a single queue manage current request rate coordinator besides threads don t need call * _CODE_ ( ) * perfectly consume calling * queue ( ) *
+indentation crazy ! I m thinking some mismatch ( IDE github ) number spaces a tab worth
+internal cache return null
+some point need a variant exists ( ) accepts TYPE_2 parameter case existence VAR_2 needs a path special properties scope some package type critical
+I a race _CODE_ _CODE_ shutdown population jobs added _CODE_ stop called result leak population jobs guarded higher stack I guarded explicitly _CODE_
+Integer parseInt
+thread safe
+good idea 👍 checking IMO moved _CODE_ os < X > classes generally expose os interface mapping upper layer i e _CODE_
+minor : rely interface full type
+method recursively calls result stackoverflow
+shouldn t throw exception instead
+szewc I d _CODE_ METHOD_4 ( ) ; METHOD_5 ( VAR_3 METHOD_6 ( INT_1 ) ) METHOD_7 ( CHAR_1 ) ; VAR_2 METHOD_4 ( ) ; METHOD_5 ( VAR_3 METHOD_6 ( INT_1 ) ) METHOD_7 ( CHAR_2 ) ; I agree test wrong
+else { [ ] ( start = 10 length = 6 ) don t need else block
+redundant String constructor
+minor : package private
+add clarifying parenthesis s easy forget precedence rules ^ & code easier reason
+s a bit I doubt _CODE_ memory easily increase a bit default ( 100 ) need check nodes created a jobs run _CODE_ standard extension side root extension node 1 namespace ( practice 1 par wiki ) s potentially a lot more refactoring module root refactoring node node element _CODE_ manipulated
+minor : qualifiers required
+simply iterate array chars check VAR_1 ( character )
+s a pity change public API I guess s reasonable case s hope folks wrote custom migrations commands
+remove fields call other constructor : ( VAR_2 ( 0 ) METHOD_1 ( ) ) ;
+Exception thrown
+remove parameter completely other constructor initiate publisher null
+clear VAR_1 list loop
+a plain decrement ( )
+logger instead VAR_1 ( ) calls
+class immutable wrap collection constructor time returned caller
+need set input position initial offset
+means VAR_2 unknown type considered serializable ? consider making unknown check METHOD_4 provide behavior rules ? I m other rule ( S2118 ) METHOD_4 reporting arguable issue a similar message run unknown type > ! unknown ! class serializable don t write
+cast necessary
+remove exceptions thrown method
+I d thought preserving Optional class s implementation nicer Optional constructor reverting null _inside_ class
+czy musi byc publiczne
+VAR_3 parameter isn t
+read ( ) call part TYPE_1 ( TYPE_2 ) constructor
+I add other VAR_7 method enforce fact explicitly target
+I _CODE_ included error message include message set
+want log exception
+return simplified : return VAR_1 remove ( VAR_1 METHOD_2 ( ) ) ; : )
+shouldn t METHOD_2
+getClass comparison required dtos inheritance works ( analyte a tissue identity purpose including parent data ) instanceof ( typically - VAR_1 models ) check interfaces flexibility e g add another implementation TYPE_4 method work subclass TYPE_3 ( )
+unnecessary new line : leave line blank ? ( s a wrap signature case differentiate signature body )
+constructor package private guice injector able call remove null checks injector fail parameter missing
+I shouldn t constructor extra boolean argument
+throws Exception dropped METHOD_3 code : _CODE_ < TYPE_2 > METHOD_1 ( TYPE_3 VAR_1 ) { return METHOD_3 ( VAR_1 ) ; }
+VAR_1 ( ) called 3 times ? worth a dedicated variable
+METHOD_2 ( ) beginning _CODE_ ( ) _CODE_ doesn t cancelled _CODE_ _CODE_ ( ) _CODE_ _CODE_ ( )
+TYPE_4 parser options aren t file - oriented ( streams ) isn t a good place put imo replace reset ( ) called places reset ( ) currently called ( _CODE_ ) addition : needs called file
+superclass repeats METHOD_2 ( ) call I don t PR adds
+TYPE_2 METHOD_1 ( METHOD_2 ( ) ) others
+: METHOD_7 callable more efficient lambda form
+need guard null
+VAR_3
+method synchronized considering VAR_1 final
+add null VAR_1
+moved block
+package private
+codacy flagged method avoid a branching statement a loop I a reasonable call codacy code easier read VAR_1 set true loop a break a single method return VAR_1 currently line 136 alternatively VAR_1 a return true statement loop I alternative a easier read codacy content
+want tri - state Boolean boolean I don t need tristate boolean
+VAR_2 String
+I dialect implement _CODE_ items put operations queue
+isn t enough throw logging exception instead logging locally
+METHOD_1 ( ) VAR_2 location argument remove global variable VAR_2 needed reducing global state good general
+println s please
+I don t put method temp table considered staging directories
+format
+please remove line changes tests
+declaration - linesuggestionlong VAR_1 = METHOD_2 ( ) METHOD_3 ( ) METHOD_4 ( ) ;
+part throw Exception remove throws Exception good beware spaces tabs prefer spaces indentation please
+need call Integer parseInt ( METHOD_3 ( ) ) more a method
+chance test ? test 35 perspectives test case evil alternatively ( I m sniffing potential problems annotation arquillian ) looped code function put some logging test failed ? a method perspectives - cleanest solution situation I sort overkill
+_CODE_ return empty array
+initialized failures
+shouldn t thread visible ? notification disappear thread visible some reason
+sense instead putting toString ( ) values I TYPE_1 s ( ) method toString ( ) overridden
+Arrays stream ( ) applied
+String valueOf ( )
+METHOD_4 ( ) a finally block _CODE_ _CODE_ ( )
+shouldn t TYPE_2 ? equals ( ) return true instances subclasses TYPE_1 point URI I checked happen aird opened time a - sirius editor
+creator change update
+need VAR_8 variable
+2 called
+minor : parentheses needed
+logging
+bug reported ? VAR_4 track s fixed ensure bug fix done a separate commit new feature work _CODE_ ( I didn t check )
+class overrides equals method needs override _CODE_ method questions
+I want add result VAR_4 list required VAR_4 passed VAR_1 overlap ? gather set returning list
+parameter sequence swapped : max VAR_1 correct
+write ( VAR_1 )
+method expects VAR_1 VAR_2 parameters careful order
+case rethrow exception a RuntimeException
+o null return false
+cast removed avoid compilation errors eclipse versions generified METHOD_3
+remove extra line
+I a couple assert equals give output case failure ( remember expected )
+shouldn t done VAR_1 saved instead
+_CODE_ work some reason ? curious a nice example new call s I ask
+VAR_2 = = false flow wrong null passed TYPE_3 throw ( want VAR_3 null case )
+protected want allow call VAR_2
+replace boris
+separate incerement check
+VAR_2 forEach ( ) Collections
+new ArrayList < String > ( ) ; - > new ArrayList < > ( ) ;
+VAR_2 variable redundant
+super ( source ) ; instead METHOD_1 method ( I _CODE_ wrong )
+create a new map - operation call moving VAR_3 doesn t difference
+single line - statements project s a nitty point I d prefer change curly braces
+getters need public ? I _CODE_ ( ) others default package access
+_CODE_ don t add tables wastes CPU cycles
+_CODE_ - style tests assign variables defined ( final want : - ) _CODE_ won t create instance class run eligible garbage collection run
+I tend agree I VAR_3 other places times extended validators approach simplify instantiation
+I prefer code done _CODE_ constructor a Map < String TYPE_1 > detected moment SNI key manager mapping
+I suggest putting a finally block
+a property
+allow type = = null ? doesn t sense a type info add a precondition check forbid
+doppelt
+please user assertEquals
+path
+small style : don t braces simple statements
+key TYPE_1
+case page loading fail exception removed TYPE_5 METHOD_6 ( ) instead
+create a new object time method called wanted ? d store object return ( static field )
+METHOD_2 ( Object boolean ) a java 6 API need define VAR_2 super METHOD_1 ( ) - 1 instead
+initialization list generics case empty generic - type placeholder compiler able auto - detect type
+needed ? throws TYPE_4
+equals instead = = ( 2 other conditions ) : TYPE_2 VAR_3 equals ( VAR_1 ) ;
+substring ( VAR_1 ) equivalent shorter write
+more consistent a - op other methods
+METHOD_8 returns long
+cast necessary
+sense check minimum values
+understood _CODE_ suggest small change : return new HashSet < TYPE_1 > ( asList ( TYPE_1 VAR_2 TYPE_1 VAR_3 TYPE_1 VAR_4 TYPE_1 VAR_5 TYPE_1 VAR_6 TYPE_1 VAR_7 ) ) ;
+METHOD_2 ( ) 是否可以改成 static method
+need explicitly open transaction METHOD_7 DB transaction open automaticly
+added a new import : org jfree util Log log object line 204 ? log error ( TYPE_4 creation exception e ) ; ? a reason 2 ways logging errors
+s current METHOD_3 ( int VAR_3 ) optional null ( API fixed t change ) s problem I m discussing problem writing new TYPE_2 ( 1234 ) a process object throw exception throw _CODE_ example require handle a _CODE_ return a class pid essentially zero data I thought dilemma suggesting feature
+avoid cases
+pref eliminate unneeded elses ( 117 120 ) returns
+parser _CODE_ ( ) detect JSON type
+methods public
+done _CODE_ example _CODE_ - > _CODE_ ( ) addition add values _CODE_ java _CODE_ properties
+sounds forgot remove
+perform test TYPE_4 s class ? strange I relates goal commit
+I return Arrays asList ( ) need create wrap ArrayList
+necessary crate TYPE_6 a _CODE_ GSSAPI mech requires a TYPE_1 METHOD_1 SASL client passed configuration
+shouldn t copy VAR_3 ? I currently empty code implies want add another selector base VAR_2
+some concerns file I some defensive code possibly ways code example blocks defense delegation methods need
+merge lines
+5 ? default s a good reason
+- I meant build return collection _every_ invocation storing a field s place calling method caching doesn t buy
+hmmm I m thinking want turn a logger warning instead I d error program proceed case consumer code responsible reacting a null return : piece code cope perfectly
+technically API violation I t find usages IDE recommendation ? I don t needed swap remain compliance ( clarify surrounding diff preview confused )
+doesn t call org infinispan configuration cache _CODE_ ( org infinispan eviction TYPE_5 ) missing completely default VAR_1
+TYPE_2 < Boolean > avoid raw types
+other words : throw exception fail test parsing XML fails
+fix formatting run formatter phase maven VAR_3 = = null doesnt VAR_1 METHOD_2 checked METHOD_3 returns null File a directory return empty directory doesn t files
+Collections addAll ( VAR_2 VAR_1 )
+I check avoided check VAR_2 ! = null
+typo : VAR_1 instead VAR_2
+needed
+return statement throw exception please remove - catch block
+sorted map ? _CODE_ sorted ?
+[ minor ] split asserts add a message showing offending
+please call _CODE_ constructors guid
+I deprecate sufficient log a VAR_2
+false
+parameter removed
+class a member variable called VAR_1 incur a data race METHOD_1 easily fixable making VAR_1 a parameter METHOD_1 I realize s debug - code
+condition needed
+VAR_1 < 0
+VAR_1 METHOD_2 ( ) a supplier called trace logging enabled suggestionlogger trace ( STRING_1 ( ) - > VAR_2 ( ) - > VAR_1 METHOD_2 ( ) ) ;
+isn t iterator ( ) excluding expired tombstones
+I d prefer order TYPE_1 METHOD_2 ( ) return null don t NPE
+mark method private class
+I initialization more terse initialize _CODE_ ternary operator pass TYPE_2 javanew TYPE_2 ( VAR_1 isPresent ( ) ? new TYPE_3 ( VAR_1 ( ) ) : new TYPE_4 ( key ) )
+agreed letting users choose system protocols browser I suppose condition
+minor : consider another helper method METHOD_3 ( ) focus interesting bit ( VAR_1 execute ( ) ) a side note executing main thread doesn t a requirement _CODE_ reason more proper call execute main thread [ 0 ] a normal _CODE_ I [ 0 ] ( params )
+don t need call toString ( )
+I remove method METHOD_2 VAR_13 static
+toString ( ) needed AFAIK
+shouldn t need METHOD_1
+case ? I entry VAR_1 registrations
+synchronized removed ? method calling METHOD_1 overload sync ed
+brackets { }
+super ( ignore ) : : consistency consider e typically nested catch blocks e enclosing block
+check trailing Path VAR_5 necessary ? TYPE_1 VAR_4 property supposed a trailing Path VAR_5
+null case
+extra else statement please remove
+space comma - need pass source duration
+needs line 91 METHOD_5 return null ( line 133 ) future complete
+( ! VAR_1 ) { / /
+thread safety ? I mistaken code snippet more thread check condition receive false ( ) method execute code block reason blocking _CODE_ method
+i d METHOD_1 VAR_4 instead
+yup incorrect I failed logic public ByteBuffer [ ] METHOD_1 ( ) gonna change
+instance - level lock suggestion s implemented overkill
+method overridden a subclass provide a behavior ? method protected supposed overridden package
+casting ArrayList brittle return List < > instead
+missed previous review needs updating
+a race corruption time ? change fine I understand actual issue current code corruption happening
+other protocols
+check needed set reference null
+new TYPE_4 - > new RuntimeException
+minor : s cleaner initialized TYPE_2 Arrays asList
+hardcoded ? 1 0
+wasn t necessary I constructor I added defaults battlefield activated abilities battlefield doesn t matter I figured I d mention
+assertEquals
+verificar necessidade desse else
+unnecessary throws ( constructor )
+print VAR_2 time ? command > server isn t valid
+( ) returns ( ) VAR_3 ( )
+don t change _CODE_ ( ) return a Collection < _CODE_ >
+assert method argument expected actual swap file match definition
+suggestionreturn ( TYPE_1 < ? super T > ) VAR_2 ( VAR_1 ) ;
+override VAR_3 _CODE_ automatically a member needs include VAR_4
+? don t want need ( ) block
+override line
+drop ImmutableList VAR_3 wrapper reduces clarity expect random - access lists
+TYPE_1 _CODE_ RuntimeException I guess simplify
+change
+ususally don t put logic entity class confusing setter side effects : _CODE_ ( blah ) METHOD_2 ( true ) METHOD_1 ( true )
+remove code ? mind I remember : rely system - wide conversion service endpoint
+I shouldn t close handle closed _CODE_ method I handle binded active transaction
+case shouldn t getrid project parameter ( project shouldn t extra initial path explicitly initial path
+minor : prefer TYPE_2 mount path order path granular
+t add parent - > VAR_1 listing cache parent status other map
+pointless level submission METHOD_5 ( ) submits callback another time ( means s valuable annotate method class executor s supposed run executors external client code execution context ( kind shouldn t runs )
+needed ? consider dropping
+опять копипаст ) у тебя ж сверху в _CODE_ точно такой код И вообще если мы удаляем в _CODE_ то зачем еще здесь ? _CODE_ в любом случае срабатывает когда с юзером связь остаточно закрылась
+useless parentheses
+TYPE_1 : : METHOD_2
+String valueOf ( VAR_1 METHOD_3 ( ) ) more sense valueOf toString
+test else case isn t needed - - s a TYPE_3 text set emprty string
+private move field creation holder i suggested
+isEmpty ( ) check collection empty
+I remove / catch wrappers checked exceptions thrown a Exception anticipating
+remove
+benefit ( proposed ) TYPE_1 EMPTY enumeration item
+TYPE_1 getInstance ( ) instead
+public private ? validator
+_CODE_ method please
+immutable
+code raises more ( previously existing ) concerns : 1 VAR_4 higher priority descriptor VAR_1 ? 2 VAR_4 descriptor changed
+throw redundancy warnings _CODE_
+public
+t return VAR_1 ? I m mistaken TYPE_2 return null lists empty
+don t need thread - safety filter hashcode methods i guess ? kind a funny prime cached values I supplier memoize pattern a cleaner necessary
+a constr takes ( id _CODE_ resource VAR_3 VAR_4 ) _CODE_ instead adding a new
+_CODE_ _CODE_ attributes annotation
+don t need line test check else
+I s visible click fail assertion needed
+initialized a static / thread - safe context
+a minor detail _CODE_ methods work _CODE_ ( expected actual ) valid test files please format file some space
+replace null VAR_1 all_columns verification exception changed initial order statements
+private method
+hmm I don t build pass
+wdyt replace return objects _CODE_ ( VAR_1 VAR_2 ) agree some adaptation 10 10 ( java 8 )
+unnecessary
+need toString ( )
+synchronized
+please change long primitive type ? : )
+I don t works swapping context a instance a constant a monitor
+line return a substring length VAR_1 + 1 substring needs longer VAR_1 replace VAR_1 + 1 VAR_1
+double ;
+unnecessary linebreak
+bump INT_1 board
+declare Map
+I thought _CODE_ info ( STRING_1 VAR_1 VAR_2 VAR_3 VAR_4 ) ; TYPE_3 log
+METHOD_2 deprecated please good getInstance
+perform read write critical section s guarantee consistency
+list ( TYPE_6 VAR_4 ) returns a reasonable upper bounds size I ArrayList faster
+a large number tests don t _CODE_ call hazelcast _CODE_ ( ) ( combination hazelcast _CODE_ ( ) / _CODE_ _CODE_ ( ) / _CODE_ _CODE_ ( ) ) shouldn t checked
+please change METHOD_7
+interesting wrapping style : )
+_CODE_ handle interruptions essentially a - op VAR_3 executing
+gauges timestamp
+doesn t need ability effect optional ability fine
+METHOD_4 doesn t need a VAR_3 caller call _CODE_ ( ) receiving prevent METHOD_4 effect called
+need declare instead declare type line 141
+I method body synchronised instead remove outer ( VAR_1 = = null ) ? i duplicated block
+remove line
+I don t understand need test tests serialization deserialization I wrong tests more
+return need variable
+handling selecting db constructor _CODE_ authentication takes place
+please initialization code activator class
+I METHOD_2 a - op conf empty don t need check
+a heavy read bug ! check breakpointapplicable reverse instanceof checkand call instanceof cheaper
+put logic _CODE_ METHOD_4 discussed
+addition pointless
+please remove
+null checks disappear a multimap
+actual runtime type ? overly defensive - I expect a string a Boolean randomly changing run run
+interesting approach I guess I d qualifiers CDI alternative mechanism simplest
+log debug
+ll need usage VAR_1 getId ( ) replaced VAR_1 METHOD_3 ( )
+StringBuilder please
+invert returns early
+change batcher immediately execute create new instance TYPE_3 added tasks smaller VAR_3 size
+line removed
+Exception thrown method
+consider : return VAR_1 = = VAR_2 ? 0 : VAR_3 - VAR_1 - 1 ;
+VAR_1 anymore
+other TYPE_3 METHOD_1 ( ) calls usual logic instance ( case Boolean ) treat other situation null provided remove need check Boolean METHOD_2 code issue error log message occur
+another - permissible change
+I copied piece JS s perfect : ) drop METHOD_3 ( STRING_2 STRING_3 ) ( 3 places ) done _CODE_ legacy mn minutes fixed some RSPEC mn plugin fails update RSPEC
+I find unintuitive find I d suggest moving log PMD _CODE_ guaranteed run a more natural
+add clarifying parenthesis
+( ! ( e instanceof TYPE_1 ) || e VAR_2 ( ) = = null ) { return e ; } Throwable VAR_1 = e VAR_2 ( ) ; return VAR_1 instanceof Exception ? ( Exception ) VAR_1 : new Exception ( VAR_1 ) ; making return statement simpler
+minor : braces unnecessary
+please whitespace changes commit
+child
+call METHOD_2 log ? aren t authenticated need log
+simplified : javareturn VAR_1 < 1 ? 0 : VAR_1 ;
+new flag VAR_4 passed ( ) _CODE_
+need convert VAR_1 a map instead
+needed ? removed efficiency reasons ( I don t method )
+[ optional ] shortened : return VAR_2 METHOD_3 ( user ) METHOD_4 ( ) ;
+please = = enum comparisons done 2 lines
+file File
+won t implement _CODE_ implement close ( )
+wouldn t / else ? unsubscribed previous lines I don t flow
+suggestionlogger error ( more vector errors { } VAR_2 ) ;
+java7 - - resources feature
+missing final ( previous patch )
+static import
+A redundant else statement
+wouldn t safer method synchronized
+need expand lambda
+package - private
+minor : _CODE_ org assertj core util List list static import readability
+* super METHOD_2 ( ) public ? * want super METHOD_2 ( ) protected class open instead defining a new method : void METHOD_2 ( ) { super METHOD_2 ( ) ; }
+a * * protected / private / default * * constructor * * List * * copied pointer t modified class javathis VAR_2 = VAR_2 clone ( ) ; I : _CODE_ b = TYPE_1 builder ( ) append ( key1 ) ; TYPE_1 jp1 = b build ( ) ; b append ( key2 ) ; TYPE_1 jp2 = b build ( ) ; ( jp1 toString ( ) equals ( jp2 toString ( ) ) { throw new Exception ( oops pointers sharing a backing array ) ; }
+coudl ArrayList imported ^^ vv
+suggest private
+other places suppress boxing warnings manually boxing code Integer valueOf ( ) expression especially true TYPE_1 format invocations common error paths I general approach preferred _CODE_
+missing braces ? VAR_1 1 VAR_3 METHOD_2 ( 10 ) returns 0
+suggest protected signal subclass
+I wouldn t implement ( return null ) A long a fixed size METHOD_2 ( ) _CODE_ write file method more string structs want serialize
+other article
+elena simply returning VAR_1
+required
+hrmmm required ? happen cluster teardown ? redundant closing ( ) call
+I give empty string input method
+spell VAR_1
+private
+simpler : } catch ( IOException e ) { throw e ; } catch ( Exception e ) { throw new IOException ( e ) ; }
+please remove { } catch ( ) block altogether
+remove extra variables aren t a setter
+s a reason removing parametrized type TYPE_1 < T > setting VAR_1 loose type other methods state _CODE_ resout type
+I generally prefer explicitly state access modifiers
+VAR_2 ( ) ? isn t a logger
+specific logic spilling a general function needs depend TYPE_2 METHOD_4 ( )
+please remove unnecessary brackets : return config < Integer > getValue ( VAR_3 VAR_2 ! = null ? VAR_2 getValue ( ) : TYPE_1 METHOD_3 ( ) getValue ( )
+incorrect VAR_1 command
+change bring ? need test working
+return null
+constant VAR_6 removed constant class
+I a liner : javathis VAR_1 = new HashMap < > ( VAR_1 ) ;
+private
+I flip clarity : return data = = null ? null : METHOD_1 ( VAR_2 METHOD_2 ( VAR_3 METHOD_3 ( data ) ) ;
+super METHOD_2 ( ) method throw exception
+null acceptable VAR_1 null represent selected need Optional
+import static Assert assertEquals ( )
+a set a negative size
+package private enough testing package tests
+offline discussion aman remove check serialize METHOD_3 ( )
+VAR_2 enough
+I checking > 0 clearer a static DEFAULT_TIMEOUT = - 1 _CODE_ change checks VAR_1 ! = DEFAULT_TIMEOUT lines
+line break ( set
+pretty lonely semicolon : wink :
+need log ? a command a log running a command
+VAR_5 = TYPE_8 METHOD_3 ( VAR_5 )
+I don t work ? expose jackson user encoding decoding spring side SDK shouldn t mapper / converter logic instead
+_CODE_ enough process a topology change event discovery service more work refer _CODE_ combining events topology change leadership change a bit complex suggest call METHOD_2 topology change a notification API _CODE_ call fetch cached _CODE_ add more complexity doesn t completely solve problem
+return VAR_4 _CODE_ want introduce a local final
+strings
+TYPE_1 SC_ need TYPE_3
+detach
+a paranoia sufferer I invert equals avoid remote possibility a NPE : javaif ( TYPE_5 TYPE_6 equals ( VAR_3 getName ( ) ) ) {
+path initialized a necessary
+a standalone function return _CODE_ remove temporary variable
+_CODE_ test please equals hashcode
+return empty list instead
+s a spacing issue spaces instead 4
+log debug
+releases request IOException thrown
+revert order deterministic
+I d check exception class parameters message isn t user
+doesn t _CODE_ depend a _CODE_ instance created system ? TYPE_2 start ( ) called I call a time
+overloaded method please don t pass null ? _CODE_ VAR_2 = TYPE_2 METHOD_2 ( VAR_1 ) ;
+able drop options ! = null check
+add ANNOTATION_1 s worth checking null safely assume client method fulfilling null pre - condition IDE client method a null argument passed remove ANNOTATION_1 remove check ! = null
+parentheses - line statements
+remove ? I realize I don t example
+please remove VAR_2 a workaround absence TYPE_1 keySet ( ) android 2 x don t support android 2 more remove places replace VAR_1 keySet ( ) s read
+parameter bee removed
+purpose _CODE_ ?
+exists check done SNAPSHOT jars intentionally updated everytime SNAPSHOT jars testing designed updated run else reason method METHOD_1 exist i guess failure a result running concurrent jobs SNAPSHOT jars
+s listener unregister stop time instead storing a boolean instance _CODE_ init implementation _CODE_
+please info level
+done lazily ? ll need case
+configuration wouldn t more sense show parameters output accept input fix validation s done UI
+return result METHOD_5 instead local variable
+s a harsh return null deprecated method work original implementation ? t method read _CODE_ information
+don t need METHOD_8 ( ) wait
+static import
+change lock released some cases change case a failure _CODE_ responsible releasing lock _CODE_ releases lock case catches exception case a time - other _CODE_ vdsm failure lock unlocked
+reason create new instance TYPE_3 VAR_7 static
+elena t VAR_1
+rely _CODE_ toString
+constructor public
+flip order checks - more intuitive IMO time valid time valid
+please METHOD_7 stdout / stderr please log instead output silenced build infrastructure
+local variable declared bad scope
+I don t method called a constructor
+necessary ? AFAIK VAR_2 key _CODE_
+VAR_1 = = null true checked upfront ( correctly results null ) move empty string 0 length check functions
+happen sinceorg springframework web bind annotation _CODE_ default true
+minor : decrease visibility modifier some methods change some methods static
+aboutthis VAR_2 = TYPE_2 METHOD_1 ( VAR_2 )
+METHOD_1 ( null null )
+coding practices : interface i = new implementation ( ) ;
+needed default initialized 0
+intentional change originial
+VAR_1 set null check _CODE_ remove log output
+needed ( null won t )
+private
+necessary protocol case - insensitive - equalsIgnoreCase
+inline vars
+import static
+resolve groups recursive search
+lambda
+I &&
+minor : remove throws
+debugging purpose result local necessary
+VAR_3 null please add a null check
+VAR_3
+I some surprising results adding additional test cases doubles : * Double _CODE_ input returns 1 0 ( edit : Double MIN_VALUE fine I forgot slightly greater 0 )
+I m capitalization needs consistent overutilized 2 lines capitalized differently
+VAR_1 synchronized move VAR_1 checks METHOD_2 method execute ( ) method
+return false
+shound t ctor public protected ? I don t reason protected methods
+tricky ! METHOD_1 currently checks WRITE_META permission entity acl created check breaks _CODE_
+please add throws IOException _CODE_ _CODE_ search
+avoid accidental class casts signature : public < T extends TYPE_2 > TYPE_1 < T > METHOD_1 ( T node ) unchecked casts regrouped method ( clients )
+please don t cleanups commit bugfixes / features / improvements
+style issue : please braces a multiline conditional
+i d events ( ) model upgrade emitting events Status flags change properly set s baby steps introduce events ( some other good reason mentioned s need )
+constructor call new ( a default additional parameter )
+add generic parameters acceptors ? ( TYPE_6 < TYPE_4 > ? )
+couple question : 1 ) ticket description TAB ESC managed ( ) I : ESC managed ? 2 ) kind interaction specific ot _CODE_ ? other grid editor ? behavior component create a builder / getter else ( some abstract / parent class ) avoid duplicate snippet
+METHOD_5 ( ) called designated keyword ? I a other tests
+private
+code present _CODE_
+raise issues case ( ) cross - procedural analysis assumption a null necessarily raise à lot _CODE_
+minor : consider replacing METHOD_2 hamcrest
+call super ( ) ; explicitly
+instead copying list requiring a ( potentially ) unsafe cast I more generics _CODE_
+remove
+constructor simply call other
+VAR_3 null
+I switch conditions
+t set xml
+static
+METHOD_3 ( ) METHOD_4 ( ) null ? I suggest rewrite condition ! TYPE_3 TYPE_4 equals ( VAR_1 METHOD_3 ( ) METHOD_4 ( ) )
+a feature requested current state division type root element discussed add a possibility types restricted context implement selection a standard type
+needed
+missing exception log rethrow runtime rename exception expand Exception
+notif ( VAR_4 containsKey ( VAR_2 ) { }
+assignment - please modify : VAR_1 = VAR_1
+stupid question : long / Long ? VAR_2 METHOD_2 ( ) returns int Integer ( Map _CODE_ ( ) )
+superfluous casting
+new constant object loop pass null construct instance looop
+I m I fact creating 2 - 3 lists maps everytime called wouldn t a _CODE_ map - - date analyzes register simply return map ( wrapped a Collections _CODE_ )
+spaces
+final
+global listener catch METHOD_4 don t need log
+please revert I s _CODE_ warning java create array generically reflection literally size
+need public ? package scoped protected work astyanax classes rackspace blueflood io astyanax \ * able call method public
+consistency final int
+I m fix removing TYPE_1 METHOD_7 invocation a part optimization process needed fix issue exposed _CODE_ mission control application blocks similar applications migrated E4 ( poor GUI rendering performance ) daniel
+assert context = = null
+isEmpty method strings Utils good idea
+minor : put _only_ statement expect METHOD_5
+session set null METHOD_1 ( )
+line asnew TYPE_3 ( ) METHOD_2 ( VAR_2 VAR_3 ) METHOD_3 ( type id ( ) ) METHOD_3 ( type id ( ) ) METHOD_4 ( ) ;
+block needed
+logger error ( )
+need force byte order wrapping byte [ ]
+expected 1st affects error messages junit
+good idea ; )
+return false
+comparing null enough replace existing VAR_1 a instance case return true short return input changed
+ditto : sort please
+suggestion METHOD_5 ( ( ) - > ! j VAR_3 METHOD_6 ( ) METHOD_7 ( task ) ) ;
+method signature doesn t Exception thrown
+return
+! [ MAJOR ] ( ) remove unused VAR_1 local variable [ ! [ rule ] ( ) ] ( )
+I deprecate add a new
+package - level protected : suggestion / / visible testingstatic void METHOD_1 ( String action ) {
+VAR_1 getName ( ) length ( ) invocation redundant
+[ _CODE_ ( long id ) ] ( ) 💯
+move _CODE_ ( ) VAR_1 a local variable
+beware invoking [ METHOD_3 ( TYPE_1 METHOD_4 ( ) ) ] ( ) invoking [ METHOD_3 ( ) ] ( )
+other method need public ? protected suffice
+please variable initialized empty array avoid a null check done
+some protected items package private
+don t precompute VAR_3 METHOD_5 unnecessary code harder follow
+ternary behave stated 1 annotation
+change variable VAR_4 _CODE_
+parent METHOD_1 throw a TYPE_3 parameter invalid method longer throws TYPE_2
+please java conventions - param
+enabling indexing VAR_1 = = false ? auto - enabling happen VAR_1 = = true
+dao return empty list populated null
+static
+simplify string construction : _CODE_ VAR_3 = System getProperty ( VAR_4 STRING_4 + VAR_7 ) ; String VAR_5 = System getProperty ( VAR_6 STRING_4 + VAR_8 ) ;
+I recommend returning a boolean true a successful update false - op case
+rest class expects VAR_2 nonnull I recommend initialize VAR_2 empty mutable list setter
+necessary
+task
+override
+public static boolean METHOD_1 ( final TYPE_1 url )
+I delete synchronized block values modified reading state 2 s move prior accesses values synchronized blocks currently a test
+isn t easier VAR_1 a field test ? _CODE_ created settings ? field instead local variable simplify test methods
+please add braces else block
+need wrap a new ArrayList ? wasteful
+I don t s necessary log message host other unmet conditions don t log necessary VDS ID helpful ( assuming VM ID printed elsewehere )
+catch exceptions test code want declare method throws Exception
+include information e exception message
+rollback done test case ( i e notation notataion ) I preserve current behavior od METHOD_1 ( ) I suggest creating a new _CODE_ ( ) method performing METHOD_3
+equality check ? done equals
+needed
+I don t need check METHOD_3 result VAR_4 exceeded
+isn t VAR_3 I ve overloaded variable meanings need : * _CODE_ * _CODE_ * _CODE_ * _CODE_ 3 true _CODE_ _CODE_ ( ) true true _CODE_ _CODE_ ( ) true want VAR_2
+TYPE_1 valueOf
+minor : a shortcut METHOD_2 ( ) method deserialization class _CODE_ consistent places
+a tiny miss a whitespace - >
+declared _CODE_
+doesn t : building VAR_1 VAR_2 need check VAR_2 disabled I ? ( VAR_2 ! = null && ! VAR_2 METHOD_2 ( ) ) { ( VAR_1 ! = null && ! VAR_1 METHOD_2 ( ) ) { VAR_1 dispose ( ) ; } VAR_1 = new TYPE_1 ( VAR_2 METHOD_3 ( ) VAR_2 SWT VAR_3 ) ; }
+VAR_1 clear ( )
+builder concatenate 3 strings loops I guess unnecessary
+a tombstone longer hierarchy ( result removing proxy ) method return a null throw exception
+braces more occurrences file
+needed
+more appropriately logger warn
+_CODE_ ( other plan printer ) expect expression METHOD_2 s fix tests failing
+move line logging error case error logged
+return METHOD_2 ( ) ! = null && ( STRING_1 equals ( METHOD_2 ( ) ) || STRING_2 ( METHOD_2 ( ) ) ) ;
+redundant
+TEXT datatype more
+space IOException {
+additional list creation ( new ArrayList < > ( ) ) provide benefits compared ? javathis VAR_2 = asList ( VAR_2 ) ;
+nitpick : instead application
+I missing simplybuffer append ( STRING_1 ) ; METHOD_2 ( buffer VAR_1 ) ; buffer append ( STRING_2 ) ; METHOD_2 ( buffer VAR_2 ) ; buffer append ( STRING_3 ) ;
+synchronized access _CODE_ instance cool transaction performance impact want initialize invoking full resource
+simplify reordering states
+den cast auf ( TYPE_1 ) ist hier überflüssig
+I part PR changed new StringBuilder ( TYPE_1 METHOD_2 ( ) ) avoid useless append ( StringBuilder ( ) constructor create StringBuilder capacity 16 immediately expand append )
+logger instead sysout logging
+revert TYPE_2 X instead TYPE_1 TYPE_2 X
+cast busimpl needed METHOD_1 _CODE_ interface
+TYPE_3 exception
+I forgot change - return METHOD_1 ( VAR_1 METHOD_3 ( ) ) ;
+need static
+a constant a magic string
+change order save a temp variable s
+VAR_1 METHOD_2 ( String valueOf ( i ) ) ;
+create a new instance time cache instance a member variable
+( VAR_1 ! = null && METHOD_4 ( ) ! = null ) { }
+I don t called patch a reason public
+needed unboxing
+remove throws TYPE_2
+change
+list#of _CODE_
+work / read TYPE_1 default values return early instead creating new objects rest code work properly
+methods class synchronized change good
+return false else case
+I new TYPE_3 < > ( options ) work
+disposed
+else redundant
+call
+lines definitions necessary ? isn t shorter VAR_3 METHOD_6 ( ) METHOD_7 ( ) assert
+please ! don t ship a null object ! : cry :
+I move
+int VAR_1 ( ) ;
+moving VAR_7 won t affect result
+need
+minor declaring a new TYPE_1 time good practice
+3 methods public need
+setting true indexing
+Log e
+move tag a constant
+won t copy map
+VAR_2 null throw NPE
+s ( = _CODE_ ) public user _CODE_ ( user user String password ) instead rid _CODE_ Context evict user key consists user _CODE_ _CODE_ called invalidating entries issue
+revert change don t need specific class
+properties provider return VAR_2 case network
+simply return result METHOD_3 return true / false statements imo nicer extract i - > i VAR_2 ( VAR_1 getId ( ) ) METHOD_4 ( ) = = TYPE_3 TYPE_2 part a separate method _CODE_ easier read
+a reason TYPE_2 VAR_4 ? needed remove spaces ? a trim ( ) removing spaces words
+close done TYPE_2 read ( )
+inlined
+test method combination parameters goal public method service layer tested write tests methods * METHOD_2 ( ) * METHOD_2 ( _CODE_ ) need test passing true passing false another case drugs return empty list ? I tedious written start tests wasnt
+classes reading worse
+VAR_1 null
+result double logging
+braces
+replace arrays#stream stream#of consistency
+please assertj assertion case fail error message explaining list sizes current implementation print assertion error expected true false reference list size
+function public ? class
+needed delete
+return false instead else return false
+throws Exception needed
+System ? booh
+instead initializing _CODE_ METHOD_1 ? _CODE_ = _CODE_ ( VAR_3 VAR_4 VAR_5 VAR_6 ) ;
+isn t present biojava
+replace ( null )
+add log
+remove VAR_2
+logic potentially fragile accidentally types * spaces * e g - c [ space ] [ space ] test investigated a potentially tools / API apache commons CLI VAR_2 parsing ( instead string parsing ) ? CLI API d rewriting
+line ? check returned list empty
+don t eat exception throw wrap update interface
+deprecate
+org modeshape common util _CODE_ compute ( ) instead ? return VAR_2 ( ) ? ( null ? )
+VAR_2 I
+static
+update wouldn t work id a new idsetting a new id job add command
+safe call METHOD_2 multiple times source METHOD_2 ( ) s a nice global check lines ( _CODE_ ! = null && _CODE_ ( ) )
+done
+TYPE_5 METHOD_6 ( 5 ) - > 5 timeout parameter METHOD_5 ( ) seconds milliseconds
+I guess assert temporary variable
+return : METHOD_1 ( VAR_4 VAR_1 ) ;
+return true more obvious
+duplicate assert
+null source odd
+personally simple I simple a ternary operation code simplicity mind code size
+I don t need check method simply _CODE_ METHOD_3 ( getParameters ( ) METHOD_2 ( ) ) needed getParameters ( ) METHOD_2 ( ) simply won t result
+method protected changing signature break - team / junit - committers handle ? add new feature breaking extension point I m favour modifying methods signature making private users create a new rule instead extending timeout builder creating VAR_1
+loop fails VAR_1 _the first_ stop ( 0 ) method : Set < TYPE_1 < TYPE_2 > > VAR_2 = new HashSet < > ( ) ; ( VAR_1 hasNext ( ) ) { VAR_2 addAll ( VAR_4 ( VAR_1 ( ) ) ) ; } return VAR_2 iterator ( ) ;
+unnecessary set VAR_2 expected elements org jboss weld bootstrap _CODE_ _CODE_ ( _CODE_ ) other places constructor
+unnecessary ; enabled default core disabled wizard
+a lack symmetry VAR_4 initialized ctors
+ImmutableList VAR_5
+i m getValue ( ) supposed called I work correctly called set VAR_2 zero METHOD_1
+hmm I remove line s needed close ( null ) s a left - line some previous version file result set closed properly : - )
+( ! event VAR_1 ( ) ) avoided adding ( observation = observation POST ) class level
+flip move METHOD_1 call
+block simplified ? javapublic TYPE_1 METHOD_1 ( ) { VAR_1 = new TYPE_2 ( ) ; ( VAR_2 = = null ) { METHOD_2 ( ) ; } ( VAR_3 = = null ) { METHOD_3 ( ) ; } return ; }
+I don t code duplication aboutif ( ! = null ) { switch ( ) { } } Assert VAR_1 ( false ) ; return null ;
+need public
+minor s consistent initialize set map ? I check a specific reason initialize compared others
+I concerned addition METHOD_4 single METHOD_3 read data METHOD_3 checksum instead expensive dealing large files performance regressions
+_CODE_ ( dont else ) longer need synchronized keyword
+hey quick a potential NPE produced ? I METHOD_3 ( null ) getValue ( )
+TAG
+encapsulating underlying implementation TYPE_1 need _CODE_ ? I m thinking _CODE_ _CODE_ ( ) bug I meant call METHOD_9 ( ) bug live place expose a large object _CODE_ lots flexibility a card meant s some notes some tradeoffs :
+TYPE_2 toString ( ) - > String valueOf ( TYPE_2 ) s int
+a WARN instead ERROR
+I d prefer ImmutableList
+I d expect union POINT ( 1 2 ) LINESTRING EMPTY POINT ( 1 2 ) test asserts result GEOMETRYCOLLECTION ( POINT ( 1 2 ) )
+protected
+output cache reset
+I recommend < code > ( ) < / code > constructor
+sense static methods wrote ? ( buf = = null || Math min ( buf length VAR_3 ) < VAR_2 + 1 / * required array length method work correctly * / ) { return false ; } I a common practice currently libjitsi a sloppy access arrays I change write more defensive code
+( TYPE_3 NO_RESPONSE ) change return type void remove return statement
+VAR_3 other files
+context GUVNOR - 2821 I expect assertTrue please update METHOD_2 method achieve ? don t point
+need a class member
+minor : VAR_2 size ( ) > 0 check isn t needed
+TYPE_1 renamed _CODE_
+tests don t rely TYPE_1 VAR_2 remove line rename method rid _CODE_ ( )
+good include causing exception user couldn t created
+need swap order nullcheck / isEmpty lead NPE ( METHOD_3 returns null s ) validator fail
+VAR_2 = = null ? isn t set open ( ) ? need check VAR_1
+enabled ? restore
+I d more specific error messages s a scenarios aware : * A permanent group s * * patched description updated * a community / Collection group s ( editable ) & description ( editable ) s detached case patched a minimum need errors & checks permanent groups * * updates description updates community / Collection groups updated community / Collection deleted considered permanent
+need assign VAR_1 return line add a null check VAR_3
+break statement multiple readability
+method changed private
+please write ! config VAR_4 ( ) isEmpty ( ) instead checking size
+change toString VAR_3 ; ( VAR_2 METHOD_3 ( ) ) { VAR_3 = VAR_2 METHOD_4 ( ) ; } else { VAR_3 = VAR_2 METHOD_2 ( ) ; }
+final VAR_2 ? issue line 130 final local variables spock I d remove
+checks necessary logout
+debug / trace / remove
+need I feel else A binding _CODE_ dependencies TYPE_1 classes work
+( equivalent 3 0 class ) place a field isn t shadowed intentional
+drop empty block
+please remove final modifiers redundant
+message needs changed retrofit ? care people overwrite ? I don t breaks _CODE_ ( ) desire
+a small remark feel free skip a nicer else logic direct likeif ( VAR_2 = = null ) { return Optional empty ( ) ; } else { final TYPE_4 VAR_4 = ( TYPE_4 ) VAR_2 ; return Optional ( ( TYPE_1 ) VAR_4 METHOD_3 ( ) ) ; }
+generally don t sort _CODE_ case - don t sort move top list firstly consider dropping method making METHOD_1 ( ) protected add logic _CODE_ drop comparator iterate items find specific ID move top list comparator isn t necessary
+considering expected exception test assertThat superfluous want VAR_3 hasNext ( ) ;
+class included method called
+edge case duplicate code ; ) extracted a common private method params id type want change ; )
+return true disks storage domain ( remember don t check validate method VAR_6 ) change assertTrue
+shouldn t max ( ) offset VAR_1 avoid VAR_3 previous offset
+want put a / finally block
+rename s
+moving METHOD_3 ( ) METHOD_4 ( ) ? case METHOD_4 ( ) returns false save DB call : )
+reason t iterate values ? VAR_3 values ( ) foreach ( - > METHOD_2 ( ) ) ; VAR_3 clear ( ) ;
+assertion removed test java type system code
+need call file toString ( ) - > TYPE_2 File constructor
+minor : calls collapsed TYPE_3 METHOD_3 handles nulls fine
+TYPE_1 unused
+TYPE_3 thrown shouldn t declared throws
+1 s replace params _CODE_ more sense method reside _CODE_ - I don t related _CODE_
+nm I misread diff I thought METHOD_1 ( ) called METHOD_4 ( )
+null safe I suggest stringutils equalsignorecase start expression constant
+works s hard read I readable return
+s TYPE_2 VAR_3 include others TYPE_2
+I smell incoming NPE
+call METHOD_1 ( path ) s
+( VAR_2 ! = VAR_1 )
+a couple thousand times slower : - ) keys rarely overlap VAR_1 creating a StringBuilder initialization cost amortized
+a RuntimeException ? case don t want catch
+replace method content super METHOD_1 ( VAR_1 ) ; underlying code METHOD_1 entity fire event
+allow create class * * _CODE_ * * some * * METHOD_1 method * * override issue METHOD_1 final provide
+I find easier read ( )
+shouldn t changed super METHOD_1 ( )
+shouldn t loop release memory discarded arrays ? E g VAR_4 [ VAR_3 ] = null
+I suspect want preserve order return a List
+alias null
+TYPE_2 thrown method ? return void throw TYPE_2 instead
+protected bad allow - user mutate local property
+case file exist long ? a system a longer filename limit existing file worry length I
+extraction a variable ? I inlined : return client VAR_4 ( ) create ( METHOD_2 ( VAR_1 ) TYPE_3 VAR_6 ) METHOD_3 ( ) ;
+property
+changed return ! command VAR_1 ( TYPE_3 VAR_6 ) )
+! [ MINOR ] ( severity : MINOR ) remove declaration thrown exception java io IOException thrown constructor s body [ ! [ rule ] ( ) ] ( )
+VAR_5 return null
+create a VAR_1 getName ( ) delegates parameter
+constructors set protected properties base class called super
+move null check VAR_1 a level protect access METHOD_2 wdyt
+please remove redundant brackets ( _CODE_ )
+trace lines removed
+I util obfuscates code
+I dislike confuses / s templates special slash added a good opportunity future mistakes a case changing String format ( ) templates essentially varying numbers parameters String join ( )
+I more concise UNKNOWN_STATS
+didn t remove guava GWTP
+👍ah a good reason picasso3 package long common names request API
+( VAR_1 ! = null ) { TYPE_4 METHOD_3 ( ( ) - > METHOD_4 ( VAR_1 ) ) ; }
+finally
+move null check action change behaviour
+I ( = = null ) return null a slightly deal
+check VAR_1 ! = null
+missing a ( ) getKey ( ) UUID key map TYPE_1 key object instance
+logging buying ? need
+part redundant : byte [ ] class ! = obj getClass ( )
+private
+don t push _CODE_ : : VAR_2 ? ( s deserialize invoked )
+reason disabling cache descending order queries
+replace new code TYPE_3 equals ( resource VAR_2 ( ) )
+change List < properties > API fixed
+need tests independent instance count zero
+need ? s creating a circular dependency EMF TYPE_2 EMF depends TYPE_2
+don t System : )
+instanceof nightmare
+a protected method
+multi return forbidden
+VAR_1 METHOD_5 VAR_2 null initially logic a bit muddled
+declare VAR_2 a long
+CMAS severe alerts shouldn t METHOD_1 ( ) return VAR_6 ? spec severity extreme urgency expected
+instead thowing return empty list
+Type argument TYPE_1 need
+API private
+noted commit public testing
+I don t sense trace null shouldn t create a new message file case
+wondering worth putting VAR_2 = = VAR_3 check a short - circuiting efficiency improvement
+< code > ! = < / code > correct
+missing VAR_1 close ( )
+rid variables place
+I don t logic necessary default visibility VAR_3
+protected
+public interface
+new ArrayList < > (
+Double volatile read rid VAR_4
+please remove line
+a - dunlap please update docs : TYPE_4 thanks
+super ( id ( ) ) ? some other places [ 1 ] provide decoded id TYPE_2 ( String ) shouldn t places decoded id VAR_2 id ? [ 1 ]
+TYPE_1 < ? > VAR_1 = ( TYPE_1 < ? > ) METHOD_1 ( ) ; sense ( VAR_1 instanceof TYPE_1 )
+forgot revert
+good catch I spotted a other log messages _CODE_ attribued clearer remove _CODE_ _CODE_ prefix I
+redundant logging current user base class
+reason check view
+I thought catch exception call close ( ) rethrow
+I enums = = / ! = operators s a matter style I prefer ( instance enum referenced entity enum constant ) fine
+shouldn t force put ? returned s cache s doesn t matter
+_CODE_ supports a similar server - side SSL_OP_NO_TICKET page :
+a _CODE_ static ( doesn t run ) I wondering passed hudson remembered perf tests don t run
+more sense mark VAR_1 parameter _CODE_ instead checking
+I d throw exception
