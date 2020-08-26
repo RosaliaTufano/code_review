@@ -17,9 +17,10 @@ The dataset for the `1-encoder` model is composed by *Reviewed Code Pairs* (RCPs
   - `tgt` file contains the m_r instances.
   
 The dataset for the `2-encoders` model is instead composed by *Reviewed Commented Code Triplets* (RCCTs), each having the form  <m_s, m_r, r_nl> where m_r is the abstracted code of the method implementing the natural language recommendation (r_nl) provided by a reviewer for the method in the code submitted (m_s). Therefore, for each set three files are provided:
-  - 'src1' file contains the r_nl instances;
-  - 'src2' file contains the m_s instances;
-  - 'tgt' file contains the m_r instances.
+  - `src1` file contains the r_nl instances;
+  - `src2` file contains the m_s instances;
+  - `tgt` file contains the m_r instances.
+The natural language recommendations are cleaned and abstracted as described in our work.
   
 
 
