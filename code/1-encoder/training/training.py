@@ -2,11 +2,11 @@ import subprocess
 
 # DATA
 
-path_src_train = '../../datasets/1-encoder/train/src-train.txt'
-path_tgt_train = '../../datasets/1-encoder/train/tgt-train.txt'
+path_src_train = '../../../datasets/1-encoder/train/src-train.txt'
+path_tgt_train = '../../../datasets/1-encoder/train/tgt-train.txt'
 
-path_src_val = '../../datasets/1-encoder/eval/src-val.txt'
-path_tgt_val = '../../datasets/1-encoder/eval/tgt-val.txt'
+path_src_val = '../../../datasets/1-encoder/eval/src-val.txt'
+path_tgt_val = '../../../datasets/1-encoder/eval/tgt-val.txt'
 
 # BUILD VOCAB
 
