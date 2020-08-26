@@ -10,7 +10,7 @@ path_pred = 'predictions.txt'
 
 # INFER
 
-infer_command = 'onmt-main --config ' + path_datayml + ' --auto_config infer --src_file ' + features_file + ' --predictions_file ' + path_pred
+infer_command = 'onmt-main --config ' + path_datayml + ' --auto_config infer --features_file ' + src_file + ' --predictions_file ' + path_pred
 
 f = open('./infer.sh', 'w')
 f.close()
