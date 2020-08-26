@@ -5,7 +5,6 @@ import subprocess
 
 path_datayml = '../training/data.yml'
 src_file = '../../../datasets/1-encoder/test/src-test.txt'
-
 path_pred = 'predictions.txt'
 
 # INFER
