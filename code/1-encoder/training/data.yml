@@ -10,8 +10,8 @@ data:
   target_vocabulary: ./tgt-vocab.txt
 params:
   optimizer: Adam
-  learning_rate: xxx
-  beam_width: 10
+  learning_rate: 0.5132
+  beam_width: 1
   num_hypotheses: 1
 eval:
   steps: 10000
