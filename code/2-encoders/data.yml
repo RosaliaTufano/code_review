@@ -1,1 +1,31 @@
+model_dir: run
 
+data:
+  train_features_file:
+    - ../../../datasets/2-encoders/train/src1-train.txt
+    - ../../../datasets/2-encoders/train/src2-train.txt
+  train_labels_file: ../../../datasets/2-encoders/train/tgt-train.txt
+  eval_features_file:
+    - ../../../datasets/2-encoders/eval/src1-val.txt
+    - ../../../datasets/2-encoders/eval/src2-val.txt
+  eval_labels_file: ../../../datasets/2-encoders/eval/tgt-val.txt
+  source_1_vocabulary: src1-vocab.txt
+  source_2_vocabulary: src2-vocab.txt
+  target_vocabulary: tgt-vocab.txt
+params:
+  optimizer: Adam
+  learning_rate: 0.3370
+  beam_width: 1
+  num_hypotheses: 1
+eval:
+  steps: 10000
+  early_stopping:
+    min_improvement: 0.01
+    steps: 4
+train:
+  batch_size: 32
+  effective_batch_size: 32
+  max_step: 100000
+  sample_buffer_size: 0
+  save_summary_steps: 1
+  save_checkpoints_steps: 1000
