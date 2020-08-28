@@ -39,5 +39,4 @@ The scripts require:
 - OpenNMT-tf
 
 `pip install --upgrade pip`
-
 `pip install OpenNMT-tf`
