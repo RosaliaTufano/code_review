@@ -3,8 +3,8 @@ import subprocess
 
 # DATA
 
-path_datayml = '../training/data.yml'
-src_file = '../../../datasets/2-encoders/test/src1-test.txt ../../../datasets/2-encoders/test/src2-test.txt'
+path_datayml = 'data.yml'
+src_file = '../../datasets/2-encoders/test/src1-test.txt ../../datasets/2-encoders/test/src2-test.txt'
 path_pred = 'predictions.txt'
 
 # INFER
