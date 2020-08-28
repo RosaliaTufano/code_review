@@ -33,8 +33,6 @@ It is possible to change the *beam search size* modifying the `beam_width` and `
 
 ## Requirements
 
-The scripts require:
-
 - Python >= 3.5
 - OpenNMT-tf
 ```
