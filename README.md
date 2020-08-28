@@ -4,8 +4,6 @@
 
 The purpose of this repository is to provide everythig necessary to replicate our results.
 
-### TODO: Dependencies -> Python, OpenNMT-tf
-
 ## Contents
 
 ### Datasets
@@ -33,3 +31,11 @@ Once the model is trained, it is possible to test it on the test set by running 
 
 It is possible to change the *beam search size* modifying the `beam_width` and `num_hypotheses` parameters in the `training/data.yml` file.
 
+## Requirements
+
+The scripts require:
+
+- Python >= 3.5
+- OpenNMT-tf
+`pip install --upgrade pip
+pip install OpenNMT-tf`
