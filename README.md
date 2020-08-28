@@ -4,8 +4,6 @@
 
 The purpose of this repository is to provide everythig necessary to replicate our results.
 
-### TODO: add an introduction.
-
 ### TODO: Dependencies -> Python, OpenNMT-tf
 
 ## Contents
