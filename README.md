@@ -38,6 +38,6 @@ The scripts require:
 - Python >= 3.5
 - OpenNMT-tf
 
-`pip install --upgrade pip
+`pip install --upgrade pip`
 
-pip install OpenNMT-tf`
+`pip install OpenNMT-tf`
