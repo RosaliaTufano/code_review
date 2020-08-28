@@ -46,4 +46,4 @@ This repository also contains:
 
   - `idioms.csv` : the list of idioms we used during abstraction phase;
   - `is_relevant.ipynb` : a jupyter file showing the logic used to remove the not relevant comments;
-  - `1_encoder_perfect_predictions.xlsx` and `2_encoders_perfect_predictions.xlsx` : the qualitative analysis of perfect predictions of both models.
+  - `1_encoder_perfect_predictions.xlsx` and `2_encoders_perfect_predictions.xlsx` : the qualitative analysis of perfect predictions.
