@@ -14,7 +14,7 @@ f = open('./build_vocab.sh', 'w')
 f.close()
 subprocess.run('chmod a+x build_vocab.sh', shell=True)
 
-f = open(path_folder + 'build_vocab.sh', 'w')
+f = open('build_vocab.sh', 'w')
 f.write('#!/usr/bin/env bash\n')
 f.write('onmt-build-vocab --size 50000 --save_vocab src-vocab.txt ' + path_src_train + '\n')
 f.write('onmt-build-vocab --size 50000 --save_vocab tgt-vocab.txt ' + path_tgt_train)
