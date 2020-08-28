@@ -2,10 +2,10 @@
 model_dir: run
 
 data:
-  train_features_file: ../../../datasets/1-encoder/train/src-train.txt
-  train_labels_file: ../../../datasets/1-encoder/train/tgt-train.txt
-  eval_features_file: ../../../datasets/1-encoder/eval/src-val.txt
-  eval_labels_file: ../../../datasets/1-encoder/eval/tgt-val.txt
+  train_features_file: ../../datasets/1-encoder/train/src-train.txt
+  train_labels_file: ../../datasets/1-encoder/train/tgt-train.txt
+  eval_features_file: ../../datasets/1-encoder/eval/src-val.txt
+  eval_labels_file: ../../datasets/1-encoder/eval/tgt-val.txt
   source_vocabulary: ./src-vocab.txt
   target_vocabulary: ./tgt-vocab.txt
 params:
