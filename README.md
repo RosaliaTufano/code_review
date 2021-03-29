@@ -6,7 +6,7 @@ The purpose of this repository is to provide everything necessary to replicate o
 
 ## Requirements
 
-- Python >= 3.5
+- Python >= 3.5 and <= 3.8
 - OpenNMT-tf
 
 Use the following commands to install the dependencies. 
