@@ -1,0 +1,30 @@
+{
+    "description": "<p>This is the replication package for the paper <em>\"Towards Automating Code Review Activities\"</em> (ICSE'21)</p>", 
+    "license": "MIT", 
+    "title": "RosaliaTufano/code_review: Replication Package for \"Towards Automating Code Review Activities\"", 
+    "version": "code_review", 
+    "upload_type": "software", 
+    "publication_date": "2022-01-24", 
+    "creators": [
+        {
+            "name": "Rosalia Tufano",
+            "name": "Luca Pascarella",
+            "name": "Michele Tufano",
+            "name": "Denys Poshyvanyk",
+            "name": "Gabriele Bavota"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/RosaliaTufano/code_review/tree/code_review", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.5896839", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
